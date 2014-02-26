@@ -1,0 +1,286 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="../styles/layout.css" type="text/css" />
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script language="javascript" type="text/javascript" src="jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="function.js"></script>
+	<script language="javascript" type="text/javascript">
+	google.load("visualization", "1", {packages:["corechart"]});
+		//Here is initialization of main array which will contain whole data
+		var data=new Array(5); // making a 5-D array in which i am gonna to store complete info of a particular party and particular state like Number of MPs, Age, Debates, Questions, Attendance
+			for(i=0;i<5;i++){//first dimension for criteria of plotting a graph..i.e. age, attendance etc.
+				data[i]=new Array(3);
+				data[i][0]=new Array(2);//both male and female
+				data[i][1]=new Array(2);//male
+				data[i][2]=new Array(2);//female
+				for(b=0;b<3;b++){
+					data[i][b][0]=new Array(35);//for number of persons
+					data[i][b][1]=new Array(35);//sum
+					for(j=0;j<35;j++){
+						data[i][b][0][j]=new Array(39);
+						data[i][b][1][j]=new Array(39);
+						for(k=0;k<39;k++){
+							data[i][b][0][j][k]=0;			
+							data[i][b][1][j][k]=0;			
+										}
+					}
+				}
+			}//bascially five dimensional array 1-D for criteria of graph, 2nd D for sex, 3rd for calculating average, 4-5th are for party /vs state
+			
+			var title1="";//Title of the graph
+
+	$(document).ready(function(){
+		$.ajax({url:"Mashup.txt",dataType:"text",success:function(result){//Storing all data of 15 Lok Sabha in row array
+																			var row=result.split("\n");
+		$.ajax({url:"state.txt",dataType:"text",success:function(sResult){// Storing all states in an array
+																			var state=sResult.split("\n");
+		$.ajax({url:"party.txt",dataType:"text",success:function(pResult){ // Storing all parties in an array
+																			var party=pResult.split("\n");
+			var col = new Array();			
+			for(i=0;i<551;i++){//storing everything in 2-D col array from which u can access ith row and jth col of excel file
+								col[i]=row[i].split("\t");	
+							  }
+							  
+			var i1=0;//helper variables
+			var i2=0;//helper variables
+			// filling whole data into a single multi-dimensional array
+			for(p=1;p<551;p++){
+				i1=check(col[p][2],state,35);
+				i2=check(col[p][4],party,39);
+				var checkSex=sexCheck(col[p][5]);//checking sex of an individual
+				data[0][checkSex][0][i1][i2]+=1; // Number of MPs
+				data[0][checkSex][1][i1][i2]+=1;
+				data[0][0][0][i1][i2]+=1; // Number of MPs
+				data[0][0][1][i1][i2]+=1;
+				
+				if(col[p][7]==="N/A"){}
+				else{data[1][0][1][i1][i2]+=parseInt(col[p][7]);  /// Age
+					data[1][0][0][i1][i2]+=1;
+					
+					data[1][checkSex][1][i1][i2]+=parseInt(col[p][7]);  /// Age
+					data[1][checkSex][0][i1][i2]+=1;
+					}
+					
+				if(col[p][8]==="N/A"){}
+				else{data[2][checkSex][1][i1][i2]+=parseInt(col[p][8]);  /// Debates
+					data[2][checkSex][0][i1][i2]+=1;
+					data[2][0][1][i1][i2]+=parseInt(col[p][8]);  /// Debates
+					data[2][0][0][i1][i2]+=1;
+					}
+					
+				if(col[p][9]==="N/A"){}
+				else{data[3][checkSex][1][i1][i2]+=parseInt(col[p][9]);  ///Questions
+					data[3][checkSex][0][i1][i2]+=1;
+					data[3][0][1][i1][i2]+=parseInt(col[p][9]);  /// Questions
+					data[3][0][0][i1][i2]+=1;
+					}
+					
+				if(col[p][10]==="N/A"){}
+				else{data[4][checkSex][1][i1][i2]+=parseInt(col[p][10].substring(0,col[p][10].length-1));   //Attendance
+					data[4][checkSex][0][i1][i2]+=1;
+					data[4][0][1][i1][i2]+=parseInt(col[p][10].substring(0,col[p][10].length-1));   //Attendance
+					data[4][0][0][i1][i2]+=1;
+					}	
+				
+				}
+				//Now uptill this line i had stored all required data in "data" array
+	//MOST IMP FUNCTION : function which returns an array according to our requirement i.e. for nummber of MPs,age, debates, questions, Attendance etc. returned array is basically well formated array according to need og google API
+	//INPUT : condition means criteria for plotting graph like age, attendance etc.
+	//INPUT : sex for which sex do u want to plot the graph...0 for both, 1 for male and 2 for female
+	//INPUT : wayOfSorting tells in what way  x-axis and y-axis should be sorted
+	//OUTPUT : Well formated array according to need of google graph.
+	var requiredArray=function(condition,sex,wayOfSorting){//sex==0 for both and 1 for male and 2 for female......wayOfSorting is '0' means sorted in alphabatical order 1 for x-axis, 2 for for y-axis and 3 for both axis sorted
+					var array1=new Array();	
+					var sortState=new Array(35);///array used for sorting x-axis
+					var sortParty=new Array(39);///array used for sorting y-axis
+
+					for(u=0;u<35;u++){
+							var res1=0;
+							var res0=0;
+						for(v=0;v<39;v++){
+										res1+=data[condition][sex][1][u][v];
+										res0+=data[condition][sex][0][u][v];
+										}
+									sortState[u]=[u,res1,res0];	
+									}
+									
+					for(u=0;u<39;u++){
+							var res0=0;
+							var res1=0;
+						for(v=0;v<35;v++){
+										res1+=data[condition][sex][1][v][u];
+										res0+=data[condition][sex][0][v][u];
+										}
+									sortParty[u]=[u,res1,res0];	
+									}
+									
+					for(t=0;t<35;t++){
+									var num1=sortState[t][1];
+									if(sortState[t][2]===0){}
+									else{
+										if(condition===0){}
+										else{
+										num1=sortState[t][1]/sortState[t][2];}
+										}
+									sortState[t]=[t,num1,0];								
+									}
+									
+					for(w=0;w<39;w++){
+									var num1=sortParty[w][1];
+									if(sortParty[w][2]===0){}
+									else{
+									if(condition===0){}
+									else{
+									num1=sortParty[w][1]/sortParty[w][2];}
+										}
+										sortParty[w]=[w,num1,0];
+									}		
+									
+								if(wayOfSorting===0){}	
+								else if(wayOfSorting===1){
+														sortState=sortit(sortState);
+														}
+								else if(wayOfSorting===2){
+														sortParty=sortit(sortParty);
+														}						
+								else{
+									sortState=sortit(sortState);
+									sortParty=sortit(sortParty);
+									}
+								
+					if(condition===0){//for Number of MPs
+					array1[0]=['Party','','','','Number of MPs'];
+					title1="Number of MPs";
+									}
+					else if(condition===1){//for Average age
+										array1[0]=['Party','','','','Average Age'];
+										title1="Average Age";
+											}
+					else if(condition===2){//for Average Debates
+										array1[0]=['Party','','','','Average Debates'];
+										title1="Average Debates";										
+										}
+					else if(condition===3){//for Average Questions asked
+										array1[0]=['Party','','','','Average Questions'];
+										title1="Average Questions Asked";
+											}
+					else{     //for Average Attendance
+										array1[0]=['Party','','','','Average Attendance'];
+										title1="Average Attendace";
+											}						
+					for(z=0;z<35;z++){
+						for(y=0;y<39;y++){
+						var avgCal=data[condition][sex][0][sortState[z][0]][sortParty[y][0]];//No. of mps
+						var firstCol="PARTY : "+party[sortParty[y][0]]+" & STATE : "+state[sortState[z][0]]+" & NUMBER OF MPS : " +avgCal;
+									if(condition===0){
+											if(avgCal===0){
+															array1[(39*z)+y+1]=[firstCol,z+1,y+1,0,0]
+															}
+											else{				
+												array1[(39*z)+y+1]=[firstCol,z+1,y+1,(data[condition][sex][1][sortState[z][0]][sortParty[y][0]]),(data[condition][sex][1][sortState[z][0]][sortParty[y][0]])];
+												}
+									}
+									else{
+													if(avgCal===0){
+															array1[(39*z)+y+1]=[firstCol,z+1,y+1,0,0]
+															}
+											else{				
+												array1[(39*z)+y+1]=[firstCol,z+1,y+1,(data[condition][sex][1][sortState[z][0]][sortParty[y][0]])/avgCal,(data[condition][sex][1][sortState[z][0]][sortParty[y][0]])/avgCal];
+												}
+									}				
+									
+										}
+									  }
+									  return array1;
+									  }							
+	  
+	 
+      function drawChart(arr) {
+        var data123 = google.visualization.arrayToDataTable(arr);
+        var options = {
+				  title: title1,
+				  titleTextStyle:{color: "#6C2DC7"},
+				  tooltip:{textStyle: {color: 'black'}, showColorCode: false,trigger:"focus"},
+				  hAxis: {title: 'State',titleTextStyle: {color: '#842DCE',fontSize:20},textPosition:'out',gridlines:{color: '#DCE1F9', count: 37},baselineColor:"#2B60DE"},
+				  vAxis: {title: 'Political Party',titleTextStyle: {color: '#842DCE',fontSize:20},gridlines:{color: '#DCE1F9', count: 21},baselineColor:"#2B60DE"},
+				  bubble: {textStyle: {fontSize: 0.01}},
+				  sizeAxis:{minSize:0,maxSize:30},
+				  chartArea:{left:100,top:50,width:900,height:500},
+				  colorAxis:{minValue: 0	,  colors: ['#FFFF00', '#FF0000']},
+				  enableInteractivity:true,
+			};
+        var chart = new google.visualization.BubbleChart(document.getElementById('chart_div'));
+			chart.draw(data123, options);
+      }
+	  
+		drawChart(requiredArray(0,0,0));
+		$("input").click(function(){
+			var x=document.getElementById("selector1").selectedIndex;
+			var y=document.getElementById("selector1").options;var x=document.getElementById("selector1").selectedIndex;
+			var y=document.getElementById("selector1").options;var x1=document.getElementById("selector2").selectedIndex;
+			var y1=document.getElementById("selector2").options;var x3=document.getElementById("selector3").selectedIndex;
+			var y3=document.getElementById("selector3").options;
+			drawChart(requiredArray(y[x].index,y1[x1].index,y3[x3].index));
+		})
+					
+			 }})
+			 }})
+		}})
+		
+		})
+		</script>
+	</head>
+	<body>
+		<div class="wrapper col1">
+		  <div id="header">
+			<div id="logo">
+			  <h1><a href="http://www.cse.iitd.ac.in/~cs1110201/assignment2Csp301Final">LOK-SABHA 15</h1>
+			  <p>Csp301 Assignment2 </p>
+			</div>
+			<div id="topnav">
+			  <ul>
+				
+				<li class="active"><a href="../index.html">Home</a></li>
+				<li><a href="Statewise.html">State-Wise</a></li>
+				<li><a href="MajorPoliticalParty.html">Major Political Party</a></li>
+				<li><a href="Mashup.html">Mash Up</a></li>
+				<li><a href="../hypothesis.html">Hypothesis Test</a></li>
+	
+			  </ul>
+			</div>
+			<br class="clear" />
+		  </div>
+		</div>
+	<div class="wrapper col2">
+		<ul >
+		<li>
+		  <span style="color:blue">Graph Criteria : </span>
+		  <select id="selector1" size="1">
+					<span>Jai </span>
+					<option value="0" class="select0">Number Of MPs</option>
+					<option value="1" class="select0">Average Age</option>
+					<option value="2" class="select0">Average Debates</option>
+					<option value="3" class="select0">Average Question Asked</option>
+					<option value="4" class="select0">Average Attendance</option>
+				</select></li>
+		<li>		
+			<span style="color:blue">Sex Criteria : </span>
+			<select id="selector2" size="1">
+				<option value="0" class="select1">Both (*Male & Female*)</option>
+				<option value="1" class="select1">Male</option>
+				<option value="2" class="select1">Female</option>
+			</select></li>
+		<li>
+			<span style="color:blue">Sorting Criteria : </span>
+			<select id="selector3" size="1">
+				<option value="0" class="select2">No Sorting</option>
+				<option value="1" class="select2">Sort States</option>
+				<option value="2" class="select2">Sort Parties</option>
+				<option value="3" class="select2">Sort Both axes</option>
+			</select></li>	
+			<input type="submit" id="submitter" value="Submit"/>
+		</ul>
+		</div>
+		<div id="chart_div" style="width: 1100; height: 600;margin-left:125px;margin-top:35px;border:0px solid black"></div>
+  </body>
+</html>

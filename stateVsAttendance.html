@@ -1,0 +1,47 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="styles/layout.css" type="text/css" />
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+		  var state_AvgAttandance1=[['Area Of State','Average Attendance'],[342236,88],[308144, 83],[307713,74],[275068,70],[238566 ,80],[222236,89],[196024,80],[191791 ,70],[155707 ,76],[135194,64],[130058,73],[94164,87],[88752 ,72],[ 83743 ,87],[79700,64],[78483 ,81],[55673 ,88],[50362 ,78],[44212 ,69],[38863 ,84],[22327 ,99],[21081 ,97],[16579 ,92],[10492 ,79],[7096,90],[3702,88],[1483,96],[491 ,48],[122 ,64],[32,84]];
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable(state_AvgAttandance1);
+		
+		var options = {
+          title: 'Corelation between average attendance and area of states',
+          hAxis: {title: 'Area Of State(in Km*Km)', minValue: 0, maxValue: 15,titleTextStyle: {color: "green"}},
+          vAxis: {title: 'Average Attendance', minValue: 0, maxValue: 15,titleTextStyle: {color: "green"}},
+          legend: 'none'
+        };
+		
+		var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+  <div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="index.html">LOK-SABHA 15</h1>
+      <p>Csp301 Assignment2 </p>
+    </div>
+    <div id="topnav">
+      <ul>
+      	
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a href="OtherMember/Statewise.html">State-Wise</a></li>
+        <li><a href="OtherMember/MajorPoliticalParty.html">Major Political Party</a></li>
+        <li><a href="OtherMember/Mashup.html">Mash Up</a></li>
+        <li><a href="hypothesis.html">Hypothesis Test</a></li>
+        
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+    <div id="chart_div" style="width: 800px; height: 600px;"></div>
+  </body>
+</html>

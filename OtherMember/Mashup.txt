@@ -1,0 +1,551 @@
+MP name	Nature of membership	State	Constituency	Political party	Gender	Educational qualifications	Age	Debates	Questions	Attendance	State's Debates average	State's Private Member Bills  average	State's Questions average	State's Attendance average
+A. Ganeshamurthi	Elected	Tamil Nadu	Erode	Marumalarchi Dravida Munnetra Kazhagam	Male	Graduate	65	22	263	73%	34.2	0.2	261	73%
+A.K.S. Vijayan	Elected	Tamil Nadu	Nagapattinam	Dravida Munnetra Kazhagam	Male	Graduate	50	18	184	55%	34.2	0.2	261	73%
+A.T. Nana Patil	Elected	Maharashtra	Jalgaon	Bharatiya Janata Party	Male	Graduate	50	52	457	84%	21	1.2	354	74%
+Abdul Mannan Hossain	Elected	West Bengal	Murshidabad	Indian National Congress	Male	Graduate	59	0	0	58%	34.8	0.8	135	72%
+Abdul Rahman	Elected	Tamil Nadu	Vellore	Dravida Munnetra Kazhagam	Male	Post Graduate	53	21	357	66%	34.2	0.2	261	73%
+Abu Hasem Khan Choudhury	Elected	West Bengal	Maldaha Dakshin	Indian National Congress	Male	Graduate	74	3	8	77%	34.8	0.8	135	72%
+Adagooru H Vishwanath	Elected	Karnataka	Mysore	Indian National Congress	Male	Graduate	62	2	207	66%	14.4	0.2	243	70%
+Adhi Sankar	Elected	Tamil Nadu	Kallakurichi	Dravida Munnetra Kazhagam	Male	Graduate	55	8	74	53%	34.2	0.2	261	73%
+Adhir Ranjan Chowdhury	Elected	West Bengal	Baharampur	Indian National Congress	Male	Under Matric	56	85	307	82%	34.8	0.8	135	72%
+Agatha K. Sangma	Elected	Meghalaya	Tura	Nationalist Congress Party	Female	Post Graduate	32	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Ajay Kumar	Elected	Jharkhand	Jamshedpur	Jharkhand Vikas Morcha (Prajatantrik)	Male	Professional Graduate	50	15	54	75%	13.4	0.5	73	65%
+Ajay Maken	Elected	Delhi	New Delhi	Indian National Congress	Male	Graduate	48	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Ajit Singh	Elected	Uttar Pradesh	Baghpat	Rashtriya Lok Dal	Male	Post Graduate	73	2	0	44%	24.1	0.3	131	80%
+Akhilesh Yadav	Elected	Uttar Pradesh	Kannauj	Samajwadi Party	Male	Post Graduate	39	4	0	53%	28.4	0.4	151	80%
+Amarnath Pradhan	Elected	Orissa	Sambalpur	Indian National Congress	Male	Graduate	54	16	113	85%	27.4	0.6	279	76%
+Ambica Banerjee	Elected	West Bengal	Howrah	All India Trinamool Congress	Male	Graduate	84	3	139	62%	34.8	0.8	135	72%
+Anand Prakash Paranjpe	Elected	Maharashtra	Kalyan	Shiv Sena	Male	Post Graduate	39	10	541	63%	21	1.2	354	74%
+Anandrao Adsul	Elected	Maharashtra	Amravati	Shiv Sena	Male	Graduate	65	29	886	76%	21	1.2	354	74%
+Anant Gangaram Geete	Elected	Maharashtra	Raigad	Shiv Sena	Male	Matric	61	42	8	69%	21	1.2	354	74%
+Anant Kumar Hegde	Elected	Karnataka	Uttara Kannada	Bharatiya Janata Party	Male	Inter/ Higher Secondary	44	14	427	80%	14.4	0.2	243	70%
+Ananth Kumar	Elected	Karnataka	Bangalore South	Bharatiya Janata Party	Male	Graduate	53	14	152	87%	14.4	0.2	243	70%
+Anantha Venkatarami Reddy	Elected	Andhra Pradesh	Anantapur	Indian National Congress	Male	Post Graduate	56	12	472	77%	15.2	0.4	257	70%
+Andimuthu Raja	Elected	Tamil Nadu	Nilgiris	Dravida Munnetra Kazhagam	Male	Post Graduate	49	0	0	11%	20.5	0.2	163	73%
+Anirudhan Sampath	Elected	Kerala	Attingal	Communist Party of India (Marxist)	Male	Post Graduate	50	67	269	78%	50.6	1.1	299	84%
+Annu Tandon	Elected	Uttar Pradesh	Unnao	Indian National Congress	Female	Graduate	54	27	155	94%	33.3	0.4	178	80%
+Anto Antony	Elected	Kerala	Pathanamthitta	Indian National Congress	Male	Graduate	55	60	404	89%	50.6	1.1	299	84%
+Anup Kumar Saha	Elected	West Bengal	Bardhaman Purba	Communist Party of India (Marxist)	Male	Doctorate	56	17	65	90%	34.8	0.8	135	72%
+Anurag Singh Thakur	Elected	Himachal Pradesh	Hamirpur	Bharatiya Janata Party	Male	Graduate	37	48	436	84%	70	0.3	273	89%
+Arjun Charan Sethi	Elected	Orissa	Bhadrak	Biju Janata Dal	Male	Post Graduate	70	47	189	89%	27.4	0.6	279	76%
+Arjun Munda	Elected	Jharkhand	Jamshedpur	Bharatiya Janata Party	Male	Graduate	44	3	152	43%	9.9	0.3	105	65%
+Arjun Ram Meghwal	Elected	Rajasthan	Bikaner	Bharatiya Janata Party	Male	Post Graduate	58	323	487	99%	37.1	0.8	207	88%
+Arjun Roy	Elected	Bihar	Sitamarhi	Janata Dal (United)	Male	Doctorate	40	23	257	91%	34.8	0.5	235	87%
+Arun Subhashchandra Yadav	Elected	Madhya Pradesh	Khandwa	Indian National Congress	Male	Graduate	38	1	20	76%	17.8	0.1	88	83%
+Aruna Kumar Vundavalli	Elected	Andhra Pradesh	Rajahmundry	Indian National Congress	Male	Graduate	58	15	33	100%	15.2	0.4	257	70%
+Arvind Kumar Chaudhary	Elected	Uttar Pradesh	Basti	Bahujan Samaj Party	Male	Inter/ Higher Secondary	48	3	69	95%	33.3	0.4	178	80%
+Arvind Kumar Sharma	Elected	Haryana	Karnal	Indian National Congress	Male	Post Graduate	48	13	67	75%	8.7	0.1	149	69%
+Asaduddin Owaisi	Elected	Andhra Pradesh	Hyderabad	All India Majlis-E-Ittehadul Muslimmen	Male	Graduate	43	29	824	69%	15.2	0.4	257	70%
+Ashok Argal	Elected	Madhya Pradesh	Bhind	Bharatiya Janata Party	Male	Inter/ Higher Secondary	43	54	147	92%	34.5	0.1	174	83%
+Ashok Kumar Rawat	Elected	Uttar Pradesh	Misrikh	Bahujan Samaj Party	Male	Post Graduate	36	23	592	85%	33.3	0.4	178	80%
+Ashok Tanwar	Elected	Haryana	Sirsa	Indian National Congress	Male	Post Graduate	36	2	136	84%	8.7	0.1	149	69%
+Ashwamedh Devi	Elected	Bihar	Ujiarpur	Janata Dal (United)	Female	Under Matric	44	8	69	89%	34.8	0.5	235	87%
+Asrarul Haque Mohammad	Elected	Bihar	Kishanganj	Indian National Congress	Male	Post Graduate	70	16	49	94%	34.8	0.5	235	87%
+Avtar Singh Bhadana	Elected	Haryana	Faridabad	Indian National Congress	Male	Under Matric	54	8	154	51%	8.7	0.1	149	69%
+Awale Jaywant Gangaram	Elected	Maharashtra	Latur	Indian National Congress	Male	Inter/ Higher Secondary	72	42	262	91%	21	1.2	354	74%
+Babu Lal Marandi	Elected	Jharkhand	Kodarma	Jharkhand Vikas Morcha (Prajatantrik)	Male	Graduate	54	2	0	29%	25.9	0.8	185	65%
+Badri Ram Jakhar	Elected	Rajasthan	Pali	Indian National Congress	Male	Under Matric	59	16	343	89%	37.1	0.8	207	88%
+Badruddin Ajmal	Elected	Assam	Dhubri	Assam United Democratic Front	Male	Post Graduate	62	22	196	52%	16.2	0.5	59	81%
+Baidyanath Prasad Mahto	Elected	Bihar	Valmiki Nagar	Janata Dal (United)	Male	Matric	65	20	228	91%	34.8	0.5	235	87%
+Baijayant Jay Panda	Elected	Orissa	Kendrapara	Biju Janata Dal	Male	Graduate	48	12	699	63%	27.4	0.6	279	76%
+Baju Ban Riyan	Elected	Tripura	Tripura East	Communist Party of India (Marxist)	Male	Graduate	71	6	0	84%	18	0.5	100	79%
+Bal Kumar Patel	Elected	Uttar Pradesh	Mirzapur	Samajwadi Party	Male	Inter/ Higher Secondary	48	8	205	84%	33.3	0.4	178	80%
+Baliram	Elected	Uttar Pradesh	Lalganj	Bahujan Samaj Party	Male	Doctorate	58	37	256	93%	33.3	0.4	178	80%
+Baliram Kashyap	Elected	Chhattisgarh	Bastar	Bharatiya Janata Party	Male	Under Matric	76	0	0	1%	5	0	51	64%
+Balkrishna Khanderao Shukla	Elected	Gujarat	Vadodara	Bharatiya Janata Party	Male	Post Graduate	48	20	186	72%	30.1	1	276	80%
+Bansagopal Chowdhury	Elected	West Bengal	Asansol	Communist Party of India (Marxist)	Male	Graduate	52	24	27	69%	34.8	0.8	135	72%
+Bapiraju Kanumuri	Elected	Andhra Pradesh	Narsapuram	Indian National Congress	Male	Inter/ Higher Secondary	65	7	0	91%	15.2	0.4	257	70%
+Basori Singh Masram	Elected	Madhya Pradesh	Mandla	Indian National Congress	Male	Under Matric	66	1	10	85%	34.5	0.1	174	83%
+Basudeb Acharia	Elected	West Bengal	Bankura	Communist Party of India (Marxist)	Male	Post Graduate	70	117	174	88%	34.8	0.8	135	72%
+Beni Prasad Verma	Elected	Uttar Pradesh	Gonda	Indian National Congress	Male	Graduate	71	2	0	99%	15.4	0.2	78	80%
+Bhajan Lal	Elected	Haryana	Hisar	Haryana Janhit Congress	Male	Inter/ Higher Secondary	81	0	0	39%	3.9	0	63	69%
+Bhakta Charan Das	Elected	Orissa	Kalahandi	Indian National Congress	Male	Graduate	53	39	184	89%	27.4	0.6	279	76%
+Bharat Ram Meghwal	Elected	Rajasthan	Ganganagar	Indian National Congress	Male	Graduate	56	13	150	91%	37.1	0.8	207	88%
+Bharatsinh Madhavsinh Solanki	Elected	Gujarat	Anand	Indian National Congress	Male	Graduate	58	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Bhartruhari Mahtab	Elected	Orissa	Cuttack	Biju Janata Dal	Male	Post Graduate	54	182	231	93%	27.4	0.6	279	76%
+Bhavana Pundlikrao Gawali Patil	Elected	Maharashtra	Yavatmal-Washim	Shiv Sena	Female	Graduate	40	15	257	68%	21	1.2	354	74%
+"Bhismashankar, Alias Kushal Tiwari"	Elected	Uttar Pradesh	Sant Kabir Nagar	Bahujan Samaj Party	Male	Inter/ Higher Secondary	51	33	352	79%	33.3	0.4	178	80%
+Bhola Singh	Elected	Bihar	Nawada	Bharatiya Janata Party	Male	Doctorate	77	84	273	94%	34.8	0.5	235	87%
+Bhoopendra Singh	Elected	Madhya Pradesh	Sagar	Bharatiya Janata Party	Male	Graduate	52	22	451	76%	34.5	0.1	174	83%
+Bhudeo Choudhary	Elected	Bihar	Jamui	Janata Dal (United)	Male	Graduate	52	25	293	87%	34.8	0.5	235	87%
+Bibhu Prasad Tarai	Elected	Orissa	Jagatsinghpur	Communist Party of India	Male	Post Graduate	48	16	169	84%	27.4	0.6	279	76%
+Bijoy Krishna Handique	Elected	Assam	Jorhat	Indian National Congress	Male	Post Graduate	77	0	1	90%	7.9	0.3	28	81%
+Bijoya Chakravarty	Elected	Assam	Gauhati	Bharatiya Janata Party	Female	Post Graduate	72	30	43	86%	16.2	0.5	59	81%
+Biren Singh Engti	Elected	Assam	Autonomous District	Indian National Congress	Male	Post Graduate	67	1	0	95%	16.2	0.5	59	81%
+Bishnu Pada Ray	Elected	Andaman and Nicobar Islands	Andaman and Nicobar Islands	Bharatiya Janata Party	Male	Graduate	62	68	169	76%	68	1	169	76%
+Brij Bhushan Sharan Singh	Elected	Uttar Pradesh	Kaiserganj	Samajwadi Party	Male	Post Graduate	55	19	155	87%	33.3	0.4	178	80%
+C. L. Ruala	Elected	Mizoram	Mizoram	Indian National Congress	Male	Post Graduate	76	2	10	97%	2	0	10	97%
+C. M. Chang	Elected	Nagaland	Nagaland	Nagaland People's Front	Male	Graduate	69	1	32	92%	1	0	32	92%
+C. P. Joshi	Elected	Rajasthan	Bhilwara	Indian National Congress	Male	Doctorate	62	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+C. R. Patil	Elected	Gujarat	Navsari	Bharatiya Janata Party	Male	Certificate Course	57	18	307	84%	30.1	1	276	80%
+C. Rajendran	Elected	Tamil Nadu	Chennai South	All India Anna Dravida Munnetra Kazhagam	Male	Graduate	52	30	242	71%	34.2	0.2	261	73%
+C. Sivasami	Elected	Tamil Nadu	Tiruppur	All India Anna Dravida Munnetra Kazhagam	Male	Post Graduate	55	47	455	68%	34.2	0.2	261	73%
+Chandra Sekhar Kalva Kuntla Rao	Elected	Andhra Pradesh	Mahabubnagar	Telangana Rashtra Samithi	Male	Post Graduate	58	2	0	10%	15.2	0.4	257	70%
+Chandrakant Bhaurao Khaire	Elected	Maharashtra	Aurangabad	Shiv Sena	Male	Graduate	60	31	533	70%	21	1.2	354	74%
+Chandresh Kumari Katoch	Elected	Rajasthan	Jodhpur	Indian National Congress	Female	Under Graduate	68	5	41	78%	37.1	0.8	207	88%
+Chandu Lal Sahu	Elected	Chhattisgarh	Mahasamund	Bharatiya Janata Party	Male	Graduate	53	12	57	83%	9.6	0.3	120	64%
+Charan Das Mahant	Elected	Chhattisgarh	Korba	Indian National Congress	Male	Doctorate	57	15	132	93%	5.8	0.3	55	64%
+Chaudhary Lal Singh	Elected	Jammu and Kashmir	Udhampur	Indian National Congress	Male	Graduate	53	71	218	87%	35.4	0	84	89%
+Chinta Mohan	Elected	Andhra Pradesh	Tirupati	Indian National Congress	Male	Graduate	57	3	18	79%	15.2	0.4	257	70%
+Choudhury Mohan Jatua	Elected	West Bengal	Mathurapur	All India Trinamool Congress	Male	Post Graduate	74	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+D. Napoleon	Elected	Tamil Nadu	Perambalur	Dravida Munnetra Kazhagam	Male	Graduate	48	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+D.B. Chandre Gowda	Elected	Karnataka	Bangalore North	Bharatiya Janata Party	Male	Post Graduate	76	7	482	61%	14.4	0.2	243	70%
+D.V. Sadananda Gowda	Elected	Karnataka	Udupi Chikmagalur	Bharatiya Janata Party	Male	Graduate	59	17	72	42%	9.9	0.2	181	70%
+Daggubati Purandeswari	Elected	Andhra Pradesh	Visakhapatnam	Indian National Congress	Female	Graduate	53	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Danapal Venugopal	Elected	Tamil Nadu	Tiruvannamalai	Dravida Munnetra Kazhagam	Male	Inter/ Higher Secondary	80	24	5	65%	34.2	0.2	261	73%
+Dara Singh Chauhan	Elected	Uttar Pradesh	Ghosi	Bahujan Samaj Party	Male	Graduate	49	99	81	92%	33.3	0.4	178	80%
+Darshana Vikram Jardosh	Elected	Gujarat	Surat	Bharatiya Janata Party	Female	Graduate	51	44	212	90%	30.1	1	276	80%
+Datta Raghobaji Meghe	Elected	Maharashtra	Wardha	Indian National Congress	Male	Graduate	75	47	222	89%	21	1.2	354	74%
+Davidson J. Helen	Elected	Tamil Nadu	Kanniyakumari	Dravida Munnetra Kazhagam	Female	Post Graduate	41	28	104	79%	34.2	0.2	261	73%
+Dayanidhi Maran	Elected	Tamil Nadu	Chennai Central	Dravida Munnetra Kazhagam	Male	Graduate	45	0	0	70%	16.8	0.2	121	73%
+Deepa Dashmunsi	Elected	West Bengal	Raiganj	Indian National Congress	Female	Post Graduate	51	9	328	78%	34.8	0.8	135	72%
+Deepender Singh Hooda	Elected	Haryana	Rohtak	Indian National Congress	Male	Post Graduate	34	15	74	79%	8.7	0.1	149	69%
+Deoraj Singh Patel	Elected	Madhya Pradesh	Rewa	Bahujan Samaj Party	Male	Post Graduate	43	6	79	87%	34.5	0.1	174	83%
+Devendra Nagpal	Elected	Uttar Pradesh	Amroha	Rashtriya Lok Dal	Male	Graduate	41	9	36	54%	33.3	0.4	178	80%
+Devidhan Besra	Elected	Jharkhand	Rajmahal	Bharatiya Janata Party	Male	Matric	72	2	0	68%	25.9	0.8	185	65%
+Devji Patel	Elected	Rajasthan	Jalore	Bharatiya Janata Party	Male	Matric	35	72	283	78%	37.1	0.8	207	88%
+Dhananjay Singh	Elected	Uttar Pradesh	Jaunpur	Bahujan Samaj Party	Male	Post Graduate	37	32	152	65%	33.3	0.4	178	80%
+Dharmendra Yadav	Elected	Uttar Pradesh	Badaun	Samajwadi Party	Male	Post Graduate	33	18	601	76%	33.3	0.4	178	80%
+Dhruva Narayana Rangaswamy	Elected	Karnataka	Chamrajanagar	Indian National Congress	Male	Post Graduate	51	50	418	80%	14.4	0.2	243	70%
+Digvijay Singh	Elected	Bihar	Banka	Independent	Male	Post Graduate	56	2	0	77%	10.9	0.2	64	87%
+Dilip Kumar Mansukhlal Gandhi	Elected	Maharashtra	Ahmednagar	Bharatiya Janata Party	Male	Matric	61	24	171	67%	21	1.2	354	74%
+Dilip Singh Ju Dev	Elected	Chhattisgarh	Bilaspur	Bharatiya Janata Party	Male	Post Graduate	70	2	189	62%	9.6	0.3	120	64%
+Dimple Yadav	Elected	Uttar Pradesh	Kannauj	Samajwadi Party	Female	Graduate	34	0	0	50%	1.2	0	17	80%
+Dinesh Chandra Yadav	Elected	Bihar	Khagaria	Janata Dal (United)	Male	Diploma Course	62	35	311	91%	34.8	0.5	235	87%
+Dinesh Kashyap	Elected	Chhattisgarh	Bastar	Bharatiya Janata Party	Male	Others	42	0	6	53%	3.8	0	65	64%
+Dinesh Trivedi	Elected	West Bengal	Barrackpur	All India Trinamool Congress	Male	Post Graduate	62	0	0	55%	6.9	0.1	28	72%
+Dinsha J. Patel	Elected	Gujarat	Kheda	Indian National Congress	Male	Matric	75	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Dip Gogoi	Elected	Assam	Kaliabor	Indian National Congress	Male	Graduate	60	0	0	79%	16.2	0.5	59	81%
+Dudhgaonkar Ganeshrao Nagorao	Elected	Maharashtra	Parbhani	Shiv Sena	Male	Graduate	66	37	291	89%	21	1.2	354	74%
+Dushyant Singh	Elected	Rajasthan	Jhalawar-Baran	Bharatiya Janata Party	Male	Post Graduate	38	24	304	78%	37.1	0.8	207	88%
+E. Ahamed	Elected	Kerala	Malappuram	Muslim League Kerala State Committee	Male	Graduate	74	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+E. T. Mohammed Basheer	Elected	Kerala	Ponnani	Muslim League Kerala State Committee	Male	Inter/ Higher Secondary	66	45	135	77%	50.6	1.1	299	84%
+E.G. Sugavanam	Elected	Tamil Nadu	Krisnagiri	Dravida Munnetra Kazhagam	Male	Diploma Course	54	17	614	57%	34.2	0.2	261	73%
+Eknath Mahadeo Gaikwad	Elected	Maharashtra	Mumbai-South-Central	Indian National Congress	Male	Under Graduate	72	7	724	98%	21	1.2	354	74%
+Farooq Abdullah	Elected	Jammu and Kashmir	Srinagar	Jammu and Kashmir National Conference	Male	Graduate	74	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Feroze Varun Gandhi	Elected	Uttar Pradesh	Pilibhit	Bharatiya Janata Party	Male	Graduate	32	2	499	70%	33.3	0.4	178	80%
+Francisco Sardinha	Elected	Goa	South Goa	Indian National Congress	Male	Graduate	66	13	185	94%	20.5	0.5	150	87%
+G.V. Harsha Kumar	Elected	Andhra Pradesh	Amalapuram	Indian National Congress	Male	Post Graduate	53	3	34	82%	15.2	0.4	257	70%
+Gaddam Vivekanand	Elected	Andhra Pradesh	Peddapalle	Indian National Congress	Male	Graduate	54	8	57	66%	15.2	0.4	257	70%
+Gadhvi Mukeshkumar Bhairavdanji	Elected	Gujarat	Banaskantha	Indian National Congress	Male	Graduate	49	5	349	83%	30.1	1	276	80%
+Gajanan Dharmshi Babar	Elected	Maharashtra	Maval	Shiv Sena	Male	Under Matric	69	18	804	69%	21	1.2	354	74%
+Gajendra Singh Rajukhedi	Elected	Madhya Pradesh	Dhar	Indian National Congress	Male	Graduate	47	1	104	85%	34.5	0.1	174	83%
+Ganesh Singh	Elected	Madhya Pradesh	Satna	Bharatiya Janata Party	Male	Post Graduate	50	111	457	82%	34.5	0.1	174	83%
+Gangasandra Siddappa Basavaraj	Elected	Karnataka	Tumkur	Bharatiya Janata Party	Male	Graduate	71	2	161	75%	14.4	0.2	243	70%
+Ghansyam Anuragi	Elected	Uttar Pradesh	Jalaun	Samajwadi Party	Male	Post Graduate	39	46	256	95%	33.3	0.4	178	80%
+Girija Vyas	Elected	Rajasthan	Chittorgarh	Indian National Congress	Female	Doctorate	66	18	16	89%	37.1	0.8	207	88%
+Gobinda Chandra Naskar	Elected	West Bengal	Bongaon	All India Trinamool Congress	Male	Post Graduate	71	8	1	78%	34.8	0.8	135	72%
+Gopal Singh Shekhawat	Elected	Rajasthan	Rajsamand	Indian National Congress	Male	Graduate	61	13	73	89%	37.1	0.8	207	88%
+Gorakh Prasad Jaiswal	Elected	Uttar Pradesh	Deoria	Bahujan Samaj Party	Male	Matric	73	29	530	84%	33.3	0.4	178	80%
+Goraknath Pandey	Elected	Uttar Pradesh	Bhadohi	Bahujan Samaj Party	Male	Post Graduate	61	77	108	95%	33.3	0.4	178	80%
+Govind Prasad Mishra	Elected	Madhya Pradesh	Sidhi	Bharatiya Janata Party	Male	Graduate	63	30	163	94%	34.5	0.1	174	83%
+Gowdar Mallikarjunappa Siddeswara	Elected	Karnataka	Davanagere	Bharatiya Janata Party	Male	Matric	60	15	639	60%	14.4	0.2	243	70%
+Gurudas Dasgupta	Elected	West Bengal	Ghatal	Communist Party of India	Male	Post Graduate	75	71	411	87%	34.8	0.8	135	72%
+Gurudas Kamat	Elected	Maharashtra	Mumbai-North-West	Indian National Congress	Male	Post Graduate	57	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+H.D. Devegowda	Elected	Karnataka	Hassan	Janata Dal (Secular)	Male	Diploma Course	79	21	0	69%	14.4	0.2	243	70%
+H.D. Kumaraswamy	Elected	Karnataka	Bangalore Rural	Janata Dal (Secular)	Male	Graduate	52	2	0	38%	14.4	0.2	243	70%
+Hamdullah Sayeed	Elected	Lakshadweep	Lakshadweep	Indian National Congress	Male	Graduate	30	31	377	85%	31	1	377	85%
+Hansraj Gangaram Ahir	Elected	Maharashtra	Chandrapur	Bharatiya Janata Party	Male	Inter/ Higher Secondary	57	87	746	72%	21	1.2	354	74%
+Hari Manjhi	Elected	Bihar	Gaya	Bharatiya Janata Party	Male	Under Matric	49	12	78	95%	34.8	0.5	235	87%
+Haribhau Madhav Jawale	Elected	Maharashtra	Raver	Bharatiya Janata Party	Male	Graduate	59	36	226	84%	21	1.2	354	74%
+Harin Pathak	Elected	Gujarat	Ahmedabad East	Bharatiya Janata Party	Male	Graduate	65	26	262	85%	30.1	1	276	80%
+Harischandra Deoram Chavan	Elected	Maharashtra	Dindori	Bharatiya Janata Party	Male	Graduate	60	6	566	80%	21	1.2	354	74%
+Harish Choudhary	Elected	Rajasthan	Barmer	Indian National Congress	Male	Post Graduate	42	45	444	89%	37.1	0.8	207	88%
+Harish Rawat	Elected	Uttarakhand	Hardwar	Indian National Congress	Male	Graduate	64	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Harsh Vardhan	Elected	Uttar Pradesh	Maharajganj	Indian National Congress	Male	Graduate	64	37	275	80%	33.3	0.4	178	80%
+Harsimrat Kaur Badal	Elected	Punjab	Bathinda	Shiromani Akali Dal	Female	Graduate	46	23	210	76%	19	0.6	127	78%
+Hassan Khan	Elected	Jammu and Kashmir	Ladakh	Independent	Male	Graduate	72	14	47	94%	35.4	0	84	89%
+Hemanand Biswal	Elected	Orissa	Sundargarh	Indian National Congress	Male	Inter/ Higher Secondary	72	8	195	87%	27.4	0.6	279	76%
+Hukamdeo Narayan Yadav	Elected	Bihar	Madhubani	Bharatiya Janata Party	Male	Graduate	72	74	232	95%	34.8	0.5	235	87%
+Ijyaraj Singh	Elected	Rajasthan	Kota	Indian National Congress	Male	Post Graduate	47	28	381	87%	37.1	0.8	207	88%
+Inder Singh Namdhari	Elected	Jharkhand	Chatra	Independent	Male	Graduate	69	18	159	90%	25.9	0.8	185	65%
+Inderjit Singh Rao	Elected	Haryana	Gurgaon	Indian National Congress	Male	Graduate	62	2	10	80%	8.7	0.1	149	69%
+Ismail Hussain	Elected	Assam	Barpeta	Indian National Congress	Male	Post Graduate	62	0	0	94%	16.2	0.5	59	81%
+J. Shantha	Elected	Karnataka	Bellary	Bharatiya Janata Party	Female	Inter/ Higher Secondary	39	10	516	60%	14.4	0.2	243	70%
+J.M. Aaron Rashid	Elected	Tamil Nadu	Theni	Indian National Congress	Male	Inter/ Higher Secondary	62	39	284	64%	34.2	0.2	261	73%
+Jadhav Baliram Sukur	Elected	Maharashtra	Palghar	Bahujan Vikas Aaghadi	Male	Under Matric	56	6	183	93%	21	1.2	354	74%
+Jadhav Prataprao Ganpatrao	Elected	Maharashtra	Buldhana	Shiv Sena	Male	Under Graduate	51	12	282	63%	21	1.2	354	74%
+Jagada Nand Singh	Elected	Bihar	Buxar	Rashtriya Janata Dal	Male	Graduate	70	63	312	94%	34.8	0.5	235	87%
+Jagdambika Pal	Elected	Uttar Pradesh	Domariyaganj	Indian National Congress	Male	Post Graduate	61	155	205	93%	33.3	0.4	178	80%
+Jagdish Sharma	Elected	Bihar	Jahanabad	Janata Dal (United)	Male	Graduate	61	22	368	83%	34.8	0.5	235	87%
+Jagdish Singh Rana	Elected	Uttar Pradesh	Saharanpur	Bahujan Samaj Party	Male	Graduate	58	10	93	84%	33.3	0.4	178	80%
+Jagdish Thakor	Elected	Gujarat	Patan	Indian National Congress	Male	Matric	55	17	218	64%	30.1	1	276	80%
+Jai Prakash Agarwal	Elected	Delhi	North East Delhi	Indian National Congress	Male	Graduate	67	67	656	98%	27.5	4.3	226	96%
+Jainarain Prasad Nishad	Elected	Bihar	Muzaffarpur	Janata Dal (United)	Male	Inter/ Higher Secondary	81	5	60	82%	34.8	0.5	235	87%
+Jaipal Sudini Reddy	Elected	Andhra Pradesh	Chelvella	Indian National Congress	Male	Post Graduate	70	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Janardhana Swamy	Elected	Karnataka	Chitradurga	Bharatiya Janata Party	Male	Post Graduate	44	4	5	62%	14.4	0.2	243	70%
+Jaswant Singh	Elected	West Bengal	Darjeeling	Bharatiya Janata Party	Male	Graduate	74	14	0	75%	34.8	0.8	135	72%
+Jayant Chaudhary	Elected	Uttar Pradesh	Mathura	Rashtriya Lok Dal	Male	Post Graduate	33	34	126	84%	33.3	0.4	178	80%
+Jayaram Pangi	Elected	Orissa	Koraput	Biju Janata Dal	Male	Inter/ Higher Secondary	57	4	182	71%	27.4	0.6	279	76%
+Jayshreeben Kanubhai Patel	Elected	Gujarat	Mehesana	Bharatiya Janata Party	Female	Matric	53	99	336	88%	30.1	1	276	80%
+Jeetendra Singh Bundela	Elected	Madhya Pradesh	Khajuraho	Bharatiya Janata Party	Male	Post Graduate	53	44	221	90%	34.5	0.1	174	83%
+Jhansi Botcha Lakshmi	Elected	Andhra Pradesh	Vizianagaram	Indian National Congress	Female	Doctorate	48	120	305	91%	15.2	0.4	257	70%
+Jitender Singh Malik	Elected	Haryana	Sonipat	Indian National Congress	Male	Graduate	42	8	50	63%	8.7	0.1	149	69%
+Jitendra Singh	Elected	Rajasthan	Alwar	Indian National Congress	Male	Graduate	41	1	0	69%	16.8	0.5	103	88%
+Jitin Prasada	Elected	Uttar Pradesh	Dhaurahra	Indian National Congress	Male	Post Graduate	38	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Jose K. Mani	Elected	Kerala	Kottayam	Kerala Congress (M)	Male	Post Graduate	47	52	398	83%	50.6	1.1	299	84%
+Joseph Toppo	Elected	Assam	Tezpur	Asom Gana Parishad	Male	Inter/ Higher Secondary	58	15	115	73%	16.2	0.5	59	81%
+Jyoti Dhurve	Elected	Madhya Pradesh	Betul	Bharatiya Janata Party	Female	Post Graduate	46	48	243	85%	34.5	0.1	174	83%
+Jyoti Mirdha	Elected	Rajasthan	Nagaur	Indian National Congress	Female	Graduate	40	26	58	93%	37.1	0.8	207	88%
+Jyotiraditya Madhavrao Scindia	Elected	Madhya Pradesh	Guna	Indian National Congress	Male	Post Graduate	41	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+K. C. Venugopal	Elected	Kerala	Alappuzha	Indian National Congress	Male	Post Graduate	49	39	235	84%	23.4	0.2	153	84%
+K. D. Deshmukh	Elected	Madhya Pradesh	Balaghat	Bharatiya Janata Party	Male	Graduate	63	54	147	68%	34.5	0.1	174	83%
+K. Jayaprakash Hegde	Elected	Karnataka	Udupi Chikmagalur	Indian National Congress	Male	Graduate	52	4	12	97%	3.5	0	49	70%
+K. Jayasurya Prakash Reddy	Elected	Andhra Pradesh	Kurnool	Indian National Congress	Male	Graduate	60	0	496	55%	15.2	0.4	257	70%
+K. Murugesan Anandan	Elected	Tamil Nadu	Viluppuram	All India Anna Dravida Munnetra Kazhagam	Male	Under Graduate	60	16	147	88%	34.2	0.2	261	73%
+K. P. Dhanapalan	Elected	Kerala	Chalakudy	Indian National Congress	Male	Graduate	62	47	312	100%	50.6	1.1	299	84%
+K. Sugumar	Elected	Tamil Nadu	Pollachi	All India Anna Dravida Munnetra Kazhagam	Male	Graduate	51	33	398	83%	34.2	0.2	261	73%
+K.C. Singh Baba	Elected	Uttarakhand	Nainital-Udhamsingh Nagar	Indian National Congress	Male	Inter/ Higher Secondary	65	15	208	65%	38.5	4.6	78	82%
+K.H. Muniyappa	Elected	Karnataka	Kolar	Indian National Congress	Male	Graduate	64	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+K.V. Thomas	Elected	Kerala	Ernakulam	Indian National Congress	Male	Post Graduate	66	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Kabindra Purkayastha	Elected	Assam	Silchar	Bharatiya Janata Party	Male	Post Graduate	80	25	110	89%	16.2	0.5	59	81%
+Kabir Suman	Elected	West Bengal	Jadavpur	All India Trinamool Congress	Male	Graduate	62	3	0	34%	34.8	0.8	135	72%
+Kadir Rana	Elected	Uttar Pradesh	Muzaffarnagar	Bahujan Samaj Party	Male	Under Matric	50	0	77	53%	33.3	0.4	178	80%
+Kailash Joshi	Elected	Madhya Pradesh	Bhopal	Bharatiya Janata Party	Male	Matric	83	4	73	84%	34.5	0.1	174	83%
+Kaisar Jahan	Elected	Uttar Pradesh	Sitapur	Bahujan Samaj Party	Female	Under Matric	38	5	26	58%	33.3	0.4	178	80%
+Kakoli Ghosh Dastidar	Elected	West Bengal	Barasat	All India Trinamool Congress	Female	Post Graduate	52	22	8	68%	34.8	0.8	135	72%
+Kalikesh Narayan Singh Deo	Elected	Orissa	Bolangir	Biju Janata Dal	Male	Graduate	38	15	245	69%	27.4	0.6	279	76%
+Kalyan Banerjee	Elected	West Bengal	Serampore	All India Trinamool Congress	Male	Graduate	55	30	0	73%	34.8	0.8	135	72%
+Kalyan Singh	Elected	Uttar Pradesh	Etah	Independent	Male	Graduate	80	1	0	45%	33.3	0.4	178	80%
+Kamal Kishor	Elected	Uttar Pradesh	Bahraich	Indian National Congress	Male	Graduate	56	84	229	96%	33.3	0.4	178	80%
+Kamal Nath	Elected	Madhya Pradesh	Chhindwara	Indian National Congress	Male	Graduate	65	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Kameshwar Baitha	Elected	Jharkhand	Palamu	Jharkhand Mukti Morcha	Male	Matric	56	25	179	34%	25.9	0.8	185	65%
+Kamla Devi Patle	Elected	Chhattisgarh	Janjgir-Champa	Bharatiya Janata Party	Female	Under Graduate	46	12	195	74%	9.6	0.3	120	64%
+Kamlesh Balmiki	Elected	Uttar Pradesh	Bulandshahr	Samajwadi Party	Male	Under Matric	59	1	4	85%	33.3	0.4	178	80%
+Kamlesh Paswan	Elected	Uttar Pradesh	Bansgaon	Bharatiya Janata Party	Male	Inter/ Higher Secondary	36	13	79	85%	33.3	0.4	178	80%
+Kantilal Bhuria	Elected	Madhya Pradesh	Ratlam	Indian National Congress	Male	Post Graduate	62	0	0	53%	17.8	0.1	88	83%
+Kapil Muni Karwariya	Elected	Uttar Pradesh	Phulpur	Bahujan Samaj Party	Male	Graduate	45	16	172	81%	33.3	0.4	178	80%
+Kapil Sibal	Elected	Delhi	Chandni Chowk	Indian National Congress	Male	Post Graduate	64	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Kariya Munda	Elected	Jharkhand	Khunti	Bharatiya Janata Party	Male	Post Graduate	76	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Katti Ramesh Vishwanath	Elected	Karnataka	Chikkodi	Bharatiya Janata Party	Male	Under Graduate	47	9	84	72%	14.4	0.2	243	70%
+Kaushalendra Kumar	Elected	Bihar	Nalanda	Janata Dal (United)	Male	Inter/ Higher Secondary	54	87	374	97%	34.8	0.5	235	87%
+Kavuri Samba Siva Rao	Elected	Andhra Pradesh	Eluru	Indian National Congress	Male	Graduate	68	29	151	82%	15.2	0.4	257	70%
+Khagen Das	Elected	Tripura	Tripura West	Communist Party of India (Marxist)	Male	Post Graduate	75	30	199	74%	18	0.5	100	79%
+Khatgaonkar Patil Bhaskarrao Bapurao	Elected	Maharashtra	Nanded	Indian National Congress	Male	Graduate	68	4	603	75%	21	1.2	354	74%
+Khiladi Lal Bairwa	Elected	Rajasthan	Karauli-Dholpur	Indian National Congress	Male	Graduate	48	19	117	93%	37.1	0.8	207	88%
+Killi Krupa Rani	Elected	Andhra Pradesh	Srikakulam	Indian National Congress	Female	Graduate	46	18	337	89%	15.2	0.4	257	70%
+Kirit Premjibhai Solanki	Elected	Gujarat	Ahmedabad West	Bharatiya Janata Party	Male	Post Graduate	62	122	356	93%	30.1	1	276	80%
+Kirodilal Meena	Elected	Rajasthan	Dausa	Independent	Male	Graduate	60	34	444	93%	37.1	0.8	207	88%
+Kirti (Jha) Azad	Elected	Bihar	Darbhanga	Bharatiya Janata Party	Male	Graduate	53	24	185	93%	34.8	0.5	235	87%
+Kishanbhai Vestabhai Patel	Elected	Gujarat	Valsad	Indian National Congress	Male	Inter/ Higher Secondary	48	8	527	86%	30.1	1	276	80%
+Komatireddy Raj Gopal Reddy	Elected	Andhra Pradesh	Bhongir	Indian National Congress	Male	Graduate	45	0	158	62%	15.2	0.4	257	70%
+Konakalla Narayana Rao	Elected	Andhra Pradesh	Machilipatnam	Telugu Desam Party	Male	Inter/ Higher Secondary	62	3	11	76%	15.2	0.4	257	70%
+Krishna Tirath	Elected	Delhi	North West Delhi	Indian National Congress	Female	Post Graduate	57	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Kristappa Nimmala	Elected	Andhra Pradesh	Hindupur	Telugu Desam Party	Male	Graduate	55	7	23	82%	15.2	0.4	257	70%
+Kuldeep Bishnoi	Elected	Haryana	Hisar	Haryana Janhit Congress	Male	Graduate	43	3	50	54%	3.9	0.1	70	69%
+Kumbakudi Sudhakaran	Elected	Kerala	Kannur	Indian National Congress	Male	Post Graduate	64	9	234	64%	50.6	1.1	299	84%
+Kunwarjibhai Mohanbhai Bavaliya	Elected	Gujarat	Rajkot	Indian National Congress	Male	Graduate	57	5	274	69%	30.1	1	276	80%
+Lakshmi Panabaka	Elected	Andhra Pradesh	Bapatla	Indian National Congress	Female	Post Graduate	53	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Lal Chand Kataria	Elected	Rajasthan	Jaipur Rural	Indian National Congress	Male	Inter/ Higher Secondary	44	6	237	92%	37.1	0.8	207	88%
+Lal Ji Tandon	Elected	Uttar Pradesh	Lucknow	Bharatiya Janata Party	Male	Graduate	77	9	70	76%	33.3	0.4	178	80%
+Lal Krishna Advani	Elected	Gujarat	Gandhinagar	Bharatiya Janata Party	Male	Graduate	84	32	0	98%	30.1	1	276	80%
+Lalit Mohan Suklabaidya	Elected	Assam	Karimganj	Indian National Congress	Male	Post Graduate	69	18	19	95%	16.2	0.5	59	81%
+Lalu Prasad	Elected	Bihar	Saran	Rashtriya Janata Dal	Male	Graduate	64	76	0	76%	34.8	0.5	235	87%
+Lalubhai Babubhai Patel	Elected	Daman and Diu	Daman and Diu	Bharatiya Janata Party	Male	Matric	57	5	63	63%	5	0	63	63%
+Laxman Tudu	Elected	Orissa	Mayurbhanj	Biju Janata Dal	Male	Graduate	47	21	162	56%	27.4	0.6	279	76%
+M. Anjan Kumar Yadav	Elected	Andhra Pradesh	Secunderabad	Indian National Congress	Male	Graduate	51	0	497	69%	15.2	0.4	257	70%
+M. B. Rajesh	Elected	Kerala	Palakkad	Communist Party of India (Marxist)	Male	Post Graduate	41	91	378	94%	50.6	1.1	299	84%
+M. I. Shanavas	Elected	Kerala	Wayanad	Indian National Congress	Male	Post Graduate	60	27	232	80%	50.6	1.1	299	84%
+M. Jagannath	Elected	Andhra Pradesh	Nagarkurnool	Indian National Congress	Male	Post Graduate	61	33	211	76%	15.2	0.4	257	70%
+M. K. Alagiri	Elected	Tamil Nadu	Madurai	Dravida Munnetra Kazhagam	Male	Graduate	61	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+M. K. Raghavan	Elected	Kerala	Kozhikode	Indian National Congress	Male	Graduate	60	28	339	76%	50.6	1.1	299	84%
+M. Krishnaswamy	Elected	Tamil Nadu	Arani	Indian National Congress	Male	Graduate	72	8	46	89%	34.2	0.2	261	73%
+M. Veerappa Moily	Elected	Karnataka	Chikkballapur	Indian National Congress	Male	Graduate	72	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+M. Vijaya Shanthi	Elected	Andhra Pradesh	Medak	Telangana Rashtra Samithi	Female	Matric	46	0	0	13%	15.2	0.4	257	70%
+Madan Lal Sharma	Elected	Jammu and Kashmir	Jammu	Indian National Congress	Male	Inter/ Higher Secondary	60	17	79	91%	35.4	0	84	89%
+Madhu Goud Yaskhi	Elected	Andhra Pradesh	Nizamabad	Indian National Congress	Male	Post Graduate	51	11	410	74%	15.2	0.4	257	70%
+Madhu Kora	Elected	Jharkhand	Singhbhum	Independent	Male	Graduate	41	10	51	28%	25.9	0.8	185	65%
+Madhusudan Yadav	Elected	Chhattisgarh	Rajnandgaon	Bharatiya Janata Party	Male	Inter/ Higher Secondary	42	10	83	38%	9.6	0.3	120	64%
+Magunta Srinivasulu Reddy	Elected	Andhra Pradesh	Ongole	Indian National Congress	Male	Graduate	58	3	631	59%	15.2	0.4	257	70%
+Mahabal Mishra	Elected	Delhi	West Delhi	Indian National Congress	Male	Inter/ Higher Secondary	59	28	247	94%	27.5	4.3	226	96%
+Mahabali Singh	Elected	Bihar	Karakat	Janata Dal (United)	Male	Under Matric	57	16	37	90%	34.8	0.5	235	87%
+Mahadeo Singh Khandela	Elected	Rajasthan	Sikar	Indian National Congress	Male	Post Graduate	68	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Mahendra Kumar Roy	Elected	West Bengal	Jalpaiguri	Communist Party of India (Marxist)	Male	Graduate	56	31	133	92%	34.8	0.8	135	72%
+Mahendrasinh Pruthvisinh Chauhan	Elected	Gujarat	Sabarkantha	Bharatiya Janata Party	Male	Graduate	58	121	532	99%	30.1	1	276	80%
+Mahesh Joshi	Elected	Rajasthan	Jaipur	Indian National Congress	Male	Doctorate	57	10	287	95%	37.1	0.8	207	88%
+Maheshwar Hazari	Elected	Bihar	Samastipur	Janata Dal (United)	Male	Graduate	49	30	321	93%	34.8	0.5	235	87%
+Makhansingh Solanki	Elected	Madhya Pradesh	Khargone	Bharatiya Janata Party	Male	Under Matric	60	8	90	83%	34.5	0.1	174	83%
+Mallikarjun Kharge	Elected	Karnataka	Gulbarga	Indian National Congress	Male	Graduate	70	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Mallipudi Raju Pallam Mangapati	Elected	Andhra Pradesh	Kakinada	Indian National Congress	Male	Post Graduate	50	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Mamata Banerjee	Elected	West Bengal	Kolkata Dakshin	All India Trinamool Congress	Female	Post Graduate	57	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Maneka Gandhi	Elected	Uttar Pradesh	Aonla	Bharatiya Janata Party	Female	Inter/ Higher Secondary	56	6	212	73%	33.3	0.4	178	80%
+Mangani Lal Mandal	Elected	Bihar	Jhanjharpur	Janata Dal (United)	Male	Post Graduate	64	42	223	96%	34.8	0.5	235	87%
+Manicka Tagore	Elected	Tamil Nadu	Virudhunagar	Indian National Congress	Male	Graduate	37	23	280	91%	34.2	0.2	261	73%
+Manikrao Hodlya Gavit	Elected	Maharashtra	Nandurbar	Indian National Congress	Male	Matric	77	8	148	89%	21	1.2	354	74%
+Manish Tewari	Elected	Punjab	Ludhiana	Indian National Congress	Male	Graduate	46	37	309	89%	19	0.6	127	78%
+Manohar Tirkey	Elected	West Bengal	Alipurduars	Revolutionary Socialist Party	Male	Inter/ Higher Secondary	58	24	445	60%	34.8	0.8	135	72%
+Mansukhbhai D. Vasava	Elected	Gujarat	Bharuch	Bharatiya Janata Party	Male	Post Graduate	55	35	583	82%	30.1	1	276	80%
+Marotrao Sainuji Kowase	Elected	Maharashtra	Gadchiroli-Chimur	Indian National Congress	Male	Post Graduate	62	14	323	85%	21	1.2	354	74%
+Mausam Noor	Elected	West Bengal	Maldaha Uttar	Indian National Congress	Female	Graduate	32	3	3	73%	34.8	0.8	135	72%
+Meena Singh	Elected	Bihar	Arrah	Janata Dal (United)	Female	Graduate	50	21	326	88%	34.8	0.5	235	87%
+Meenakshi Natrajan	Elected	Madhya Pradesh	Mandsour	Indian National Congress	Female	Post Graduate	39	14	132	87%	34.5	0.1	174	83%
+Meira Kumar	Elected	Bihar	Sasaram	Indian National Congress	Female	Post Graduate	67	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Mekapati Rajamohan Reddy	Elected	Andhra Pradesh	Nellore	Yuvajana Sramika Rythu Congress Party	Male	Graduate	68	4	207	59%	12.4	0.4	226	70%
+Milind Murli Deora	Elected	Maharashtra	Mumbai-South	Indian National Congress	Male	Graduate	35	0	274	88%	12.1	0.8	201	74%
+Mirza Mehboob Beg	Elected	Jammu and Kashmir	Anantnag	Jammu and Kashmir National Conference	Male	Graduate	63	43	17	84%	35.4	0	84	89%
+Mithlesh Kumar	Elected	Uttar Pradesh	Shahjahanpur	Samajwadi Party	Male	Graduate	47	18	128	88%	33.3	0.4	178	80%
+Modugula Venugopala Reddy	Elected	Andhra Pradesh	Narasaraopet	Telugu Desam Party	Male	Graduate	46	20	262	64%	15.2	0.4	257	70%
+Mohammed Azharuddin	Elected	Uttar Pradesh	Moradabad	Indian National Congress	Male	Graduate	49	2	5	76%	33.3	0.4	178	80%
+Mohan Jena	Elected	Orissa	Jajpur	Biju Janata Dal	Male	Post Graduate	55	21	42	74%	27.4	0.6	279	76%
+Mohinder Singh Kaypee	Elected	Punjab	Jalandhar	Indian National Congress	Male	Graduate	55	8	4	89%	19	0.6	127	78%
+Monazir Hassan	Elected	Bihar	Begusarai	Janata Dal (United)	Male	Doctorate	55	8	23	85%	34.8	0.5	235	87%
+Mukul Balkrishna Wasnik	Elected	Maharashtra	Ramtek	Indian National Congress	Male	Post Graduate	52	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Mulayam Singh Yadav	Elected	Uttar Pradesh	Mainpuri	Samajwadi Party	Male	Post Graduate	72	94	0	85%	33.3	0.4	178	80%
+Munde Gopinathrao Pandurang	Elected	Maharashtra	Beed	Bharatiya Janata Party	Male	Graduate	62	27	286	71%	21	1.2	354	74%
+Munisamy Thambidurai	Elected	Tamil Nadu	Karur	All India Anna Dravida Munnetra Kazhagam	Male	Doctorate	65	68	265	82%	34.2	0.2	261	73%
+Murarilal Singh	Elected	Chhattisgarh	Surguja	Bharatiya Janata Party	Male	Inter/ Higher Secondary	60	3	62	69%	9.6	0.3	120	64%
+Murli Manohar Joshi	Elected	Uttar Pradesh	Varanasi	Bharatiya Janata Party	Male	Doctorate	78	26	443	86%	33.3	0.4	178	80%
+N Cheluvaraya Swamy @ Swamygowda	Elected	Karnataka	Mandya	Janata Dal (Secular)	Male	Diploma Course	52	17	696	62%	14.4	0.2	243	70%
+N. Peethambara Kurup	Elected	Kerala	Kollam	Indian National Congress	Male	Graduate	70	16	120	85%	50.6	1.1	299	84%
+N.Dharam Singh	Elected	Karnataka	Bidar	Indian National Congress	Male	Post Graduate	75	2	4	70%	14.4	0.2	243	70%
+N.S.V. Chitthan	Elected	Tamil Nadu	Dindigul	Indian National Congress	Male	Graduate	78	43	312	92%	34.2	0.2	261	73%
+Nalin Kumar Kateel	Elected	Karnataka	Dakshina Kannada	Bharatiya Janata Party	Male	Matric	45	6	128	71%	14.4	0.2	243	70%
+Nama Nageswara Rao	Elected	Andhra Pradesh	Khammam	Telugu Desam Party	Male	Inter/ Higher Secondary	55	79	326	83%	15.2	0.4	257	70%
+Namo Narain Meena	Elected	Rajasthan	Tonk-Sawai Madhopur	Indian National Congress	Male	Post Graduate	68	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Narahari Mahato	Elected	West Bengal	Purulia	All India Forward Bloc	Male	Post Graduate	56	49	487	71%	34.8	0.8	135	72%
+Naramalli Sivaprasad	Elected	Andhra Pradesh	Chittoor	Telugu Desam Party	Male	Graduate	61	5	12	57%	15.2	0.4	257	70%
+Naranbhai Kachhadia	Elected	Gujarat	Amreli	Bharatiya Janata Party	Male	Under Matric	57	66	535	94%	30.1	1	276	80%
+Narayan Singh Amlabe	Elected	Madhya Pradesh	Rajgarh	Indian National Congress	Male	Inter/ Higher Secondary	61	49	114	95%	34.5	0.1	174	83%
+Narendra Singh Tomar	Elected	Madhya Pradesh	Morena	Bharatiya Janata Party	Male	Graduate	55	8	170	71%	34.5	0.1	174	83%
+Natubhai Gomanbhai Patel	Elected	Dadra and Nagar Haveli	Dadra and Nagar Haveli	Bharatiya Janata Party	Male	Under Matric	40	2	33	50%	2	0	33	50%
+Naveen Jindal	Elected	Haryana	Kurukshetra	Indian National Congress	Male	Post Graduate	42	14	362	82%	8.7	0.1	149	69%
+Navjot Singh Sidhu	Elected	Punjab	Amritsar	Bharatiya Janata Party	Male	Graduate	48	3	99	28%	19	0.6	127	78%
+Neeraj Shekhar	Elected	Uttar Pradesh	Ballia	Samajwadi Party	Male	Graduate	43	26	554	93%	33.3	0.4	178	80%
+Nikhil Kumar Choudhary	Elected	Bihar	Katihar	Bharatiya Janata Party	Male	Graduate	66	20	68	85%	34.8	0.5	235	87%
+Nilesh Narayan Rane	Elected	Maharashtra	Ratnagiri-Sindhudurg	Indian National Congress	Male	Doctorate	31	8	390	74%	21	1.2	354	74%
+Ninong Ering	Elected	Arunachal Pradesh	Arunachal East	Indian National Congress	Male	Graduate	53	19	25	89%	12	0	40	78%
+Nirmal Khatri	Elected	Uttar Pradesh	Faizabad	Indian National Congress	Male	Doctorate	61	34	24	98%	33.3	0.4	178	80%
+Nishikant Dubey	Elected	Jharkhand	Godda	Bharatiya Janata Party	Male	Post Graduate	43	62	577	94%	25.9	0.8	185	65%
+Nityananda Pradhan	Elected	Orissa	Aska	Biju Janata Dal	Male	Post Graduate	67	6	522	71%	27.4	0.6	279	76%
+Nripendra Nath Roy	Elected	West Bengal	Cooch Behar	All India Forward Bloc	Male	Graduate	53	37	482	71%	34.8	0.8	135	72%
+O. S. Manian	Elected	Tamil Nadu	Mayiladuthurai	All India Anna Dravida Munnetra Kazhagam	Male	Inter/ Higher Secondary	58	34	20	60%	34.2	0.2	261	73%
+Om Prakash Yadav	Elected	Bihar	Siwan	Independent	Male	Graduate	50	25	284	71%	34.8	0.5	235	87%
+P. Balram	Elected	Andhra Pradesh	Mahabubabad	Indian National Congress	Male	Graduate	48	10	426	68%	15.2	0.4	257	70%
+P. C. Mohan	Elected	Karnataka	Bangalore Central	Bharatiya Janata Party	Male	Inter/ Higher Secondary	49	3	171	73%	14.4	0.2	243	70%
+P. Jaya Prada Nahata	Elected	Uttar Pradesh	Rampur	Independent	Female	Graduate	50	19	366	31%	33.3	0.4	178	80%
+P. K. Biju	Elected	Kerala	Alathur	Communist Party of India (Marxist)	Male	Post Graduate	38	66	317	87%	50.6	1.1	299	84%
+P. Karunakaran	Elected	Kerala	Kasaragod	Communist Party of India (Marxist)	Male	Post Graduate	67	71	373	73%	50.6	1.1	299	84%
+P. Kumar	Elected	Tamil Nadu	Tiruchirappalli	All India Anna Dravida Munnetra Kazhagam	Male	Graduate	41	49	364	85%	34.2	0.2	261	73%
+P. Lingam	Elected	Tamil Nadu	Tenkasi	Communist Party of India	Male	Graduate	46	57	260	95%	34.2	0.2	261	73%
+P. T. Thomas	Elected	Kerala	Idukki	Indian National Congress	Male	Post Graduate	61	109	338	100%	50.6	1.1	299	84%
+P. Venugopal	Elected	Tamil Nadu	Tiruvallur	All India Anna Dravida Munnetra Kazhagam	Male	Graduate	60	25	219	87%	34.2	0.2	261	73%
+P. Viswanathan	Elected	Tamil Nadu	Kancheepuram	Indian National Congress	Male	Graduate	48	24	460	85%	34.2	0.2	261	73%
+P.C. Chacko	Elected	Kerala	Thrissur	Indian National Congress	Male	Post Graduate	65	19	22	90%	50.6	1.1	299	84%
+P.C. Gaddigoudar	Elected	Karnataka	Bagalkot	Bharatiya Janata Party	Male	Graduate	61	7	254	78%	14.4	0.2	243	70%
+P.L. Punia	Elected	Uttar Pradesh	Barabanki	Indian National Congress	Male	Doctorate	67	196	436	98%	33.3	0.4	178	80%
+P.R. Natarajan	Elected	Tamil Nadu	Coimbatore	Communist Party of India (Marxist)	Male	Under Graduate	61	24	251	87%	34.2	0.2	261	73%
+Paban Singh Ghatowar	Elected	Assam	Dibrugarh	Indian National Congress	Male	Graduate	61	9	18	91%	8.2	0.2	31	81%
+Padamsinha Bajirao Patil	Elected	Maharashtra	Osmanabad	Nationalist Congress Party	Male	Graduate	72	2	141	55%	21	1.2	354	74%
+Pakauri Lal	Elected	Uttar Pradesh	Robertsganj	Samajwadi Party	Male	Under Matric	60	18	61	85%	33.3	0.4	178	80%
+Palaniappan Chidambaram	Elected	Tamil Nadu	Sivaganga	Indian National Congress	Male	Post Graduate	66	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Paramjit Kaur Gulshan	Elected	Punjab	Faridkot	Shiromani Akali Dal	Female	Post Graduate	63	21	74	80%	19	0.6	127	78%
+Partap Singh Bajwa	Elected	Punjab	Gurdaspur	Indian National Congress	Male	Graduate	55	35	274	84%	19	0.6	127	78%
+Pashupati Nath Singh	Elected	Jharkhand	Dhanbad	Bharatiya Janata Party	Male	Graduate	63	19	190	90%	25.9	0.8	185	65%
+Pawan Kumar Bansal	Elected	Chandigarh	Chandigarh	Indian National Congress	Male	Graduate	64	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Pinaki Misra	Elected	Orissa	Puri	Biju Janata Dal	Male	Graduate	52	15	19	76%	27.4	0.6	279	76%
+Poonamben Veljibhai Jat	Elected	Gujarat	Kachchh	Bharatiya Janata Party	Female	Inter/ Higher Secondary	41	20	77	89%	30.1	1	276	80%
+Prabha Kishore Taviad	Elected	Gujarat	Dahod	Indian National Congress	Female	Post Graduate	58	24	4	99%	30.1	1	276	80%
+Prabhakar Ponnam	Elected	Andhra Pradesh	Karimnagar	Indian National Congress	Male	Post Graduate	45	34	676	85%	15.2	0.4	257	70%
+Prabhatsinh Pratapsinh Chauhan	Elected	Gujarat	Panchmahal	Bharatiya Janata Party	Male	Inter/ Higher Secondary	71	1	140	86%	30.1	1	276	80%
+Prabodh Panda	Elected	West Bengal	Medinipur	Communist Party of India	Male	Graduate	66	123	473	90%	34.8	0.8	135	72%
+Pradeep Kumar Jain Aditya	Elected	Uttar Pradesh	Jhansi	Indian National Congress	Male	Post Graduate	49	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Pradeep Kumar Majhi	Elected	Orissa	Nabarangpur	Indian National Congress	Male	Graduate	36	9	783	61%	27.4	0.6	279	76%
+Pradeep Kumar Singh	Elected	Bihar	Araria	Bharatiya Janata Party	Male	Matric	47	6	87	71%	34.8	0.5	235	87%
+Pradeep Tamta	Elected	Uttarakhand	Almora	Indian National Congress	Male	Post Graduate	54	11	2	96%	38.5	4.6	78	82%
+Praful Manoharbhai Patel	Elected	Maharashtra	Bhandara-Gondiya	Nationalist Congress Party	Male	Graduate	55	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Pralhad Venkatesh Joshi	Elected	Karnataka	Dharwad	Bharatiya Janata Party	Male	Graduate	49	51	472	78%	14.4	0.2	243	70%
+Pranab Mukherjee	Elected	West Bengal	Jangipur	Indian National Congress	Male	Post Graduate	76	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Prasanna Kumar Patasani	Elected	Orissa	Bhubaneswar	Biju Janata Dal	Male	Doctorate	66	48	132	83%	27.4	0.6	279	76%
+Prasanta Kumar Majumdar	Elected	West Bengal	Balurghat	Revolutionary Socialist Party	Male	Post Graduate	71	120	468	77%	34.8	0.8	135	72%
+Pratik Prakashbapu Patil	Elected	Maharashtra	Sangli	Indian National Congress	Male	Diploma Course	38	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Praveen Singh Aron	Elected	Uttar Pradesh	Bareilly	Indian National Congress	Male	Graduate	53	6	8	75%	33.3	0.4	178	80%
+Prem Das Rai	Elected	Sikkim	Sikkim	Sikkim Democratic Front	Male	Graduate	58	54	106	90%	54	0	106	90%
+Premchandra Guddu	Elected	Madhya Pradesh	Ujjain	Indian National Congress	Male	Inter/ Higher Secondary	52	16	187	78%	34.5	0.1	174	83%
+Premdas Katheria	Elected	Uttar Pradesh	Etawah	Samajwadi Party	Male	Graduate	47	50	112	93%	33.3	0.4	178	80%
+Preneet Kaur	Elected	Punjab	Patiala	Indian National Congress	Female	Graduate	67	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Priya Sunil Dutt	Elected	Maharashtra	Mumbai-North-Central	Indian National Congress	Female	Post Graduate	46	10	111	61%	21	1.2	354	74%
+Pulin Bihari Baske	Elected	West Bengal	Jhargram	Communist Party of India (Marxist)	Male	Graduate	44	33	56	92%	34.8	0.8	135	72%
+Purnmasi Ram	Elected	Bihar	Gopalganj	Janata Dal (United)	Male	Matric	62	18	468	85%	34.8	0.5	235	87%
+Putul Kumari	Elected	Bihar	Banka	Independent	Female	Information not available	53	30	0	90%	19.9	0.2	134	87%
+R. Thamaraiselvan	Elected	Tamil Nadu	Dharmapuri	Dravida Munnetra Kazhagam	Male	Graduate	49	82	483	81%	34.2	0.2	261	73%
+R.K. Singh Patel	Elected	Uttar Pradesh	Banda	Samajwadi Party	Male	Graduate	53	36	191	85%	33.3	0.4	178	80%
+Radha Mohan Singh	Elected	Bihar	Purvi Champaran	Bharatiya Janata Party	Male	Graduate	63	34	445	86%	34.8	0.5	235	87%
+Radhe Mohan Singh	Elected	Uttar Pradesh	Ghazipur	Samajwadi Party	Male	Graduate	45	12	153	74%	33.3	0.4	178	80%
+Raghavendra Yeddyurappa	Elected	Karnataka	Shimoga	Bharatiya Janata Party	Male	Graduate	39	1	63	58%	14.4	0.2	243	70%
+Raghuvansh Prasad Singh	Elected	Bihar	Vaishali	Rashtriya Janata Dal	Male	Doctorate	66	146	399	99%	34.8	0.5	235	87%
+Raghuvir Singh Meena	Elected	Rajasthan	Udaipur	Indian National Congress	Male	Graduate	53	9	107	84%	37.1	0.8	207	88%
+Rahul Gandhi	Elected	Uttar Pradesh	Amethi	Indian National Congress	Male	Post Graduate	42	1	0	42%	33.3	0.4	178	80%
+Raj Babbar	Elected	Uttar Pradesh	Firozabad	Indian National Congress	Male	Graduate	60	2	0	68%	29.1	0.4	167	80%
+Raj Kumari Chauhan	Elected	Uttar Pradesh	Aligarh	Bahujan Samaj Party	Female	Inter/ Higher Secondary	42	0	15	84%	33.3	0.4	178	80%
+Raja Ram Pal	Elected	Uttar Pradesh	Akbarpur	Indian National Congress	Male	Graduate	51	42	0	91%	33.3	0.4	178	80%
+Rajagopal Lagadapati	Elected	Andhra Pradesh	Vijayawada	Indian National Congress	Male	Graduate	48	19	430	76%	15.2	0.4	257	70%
+Rajaiah Siricilla	Elected	Andhra Pradesh	Warangal	Indian National Congress	Male	Graduate	59	27	569	78%	15.2	0.4	257	70%
+Rajan Sushant	Elected	Himachal Pradesh	Kangra	Bharatiya Janata Party	Male	Doctorate	57	70	54	94%	70	0.3	273	89%
+Rajen Gohain	Elected	Assam	Nawgong	Bharatiya Janata Party	Male	Graduate	61	8	74	60%	16.2	0.5	59	81%
+Rajendra Agrawal	Elected	Uttar Pradesh	Meerut	Bharatiya Janata Party	Male	Post Graduate	62	108	212	98%	33.3	0.4	178	80%
+Rajendrasinh Ghanshyamsinh Rana (Raju Rana)	Elected	Gujarat	Bhavnagar	Bharatiya Janata Party	Male	Graduate	56	1	30	84%	30.1	1	276	80%
+Rajesh Nandini Singh	Elected	Madhya Pradesh	Shahdol	Indian National Congress	Female	Graduate	55	0	1	89%	34.5	0.1	174	83%
+Rajiv Ranjan (Lalan) Singh	Elected	Bihar	Munger	Janata Dal (United)	Male	Graduate	57	10	441	93%	34.8	0.5	235	87%
+Rajnath Singh	Elected	Uttar Pradesh	Ghaziabad	Bharatiya Janata Party	Male	Post Graduate	61	10	32	79%	33.3	0.4	178	80%
+Raju Shetti	Elected	Maharashtra	Hatkanangle	Swabhimani Paksha	Male	Diploma Course	45	26	217	73%	21	1.2	354	74%
+Rakesh Pandey	Elected	Uttar Pradesh	Ambedkar Nagar	Bahujan Samaj Party	Male	Matric	60	9	20	85%	33.3	0.4	178	80%
+Rakesh Sachan	Elected	Uttar Pradesh	Fatehpur	Samajwadi Party	Male	Post Graduate	47	32	31	87%	33.3	0.4	178	80%
+Rakesh Singh	Elected	Madhya Pradesh	Jabalpur	Bharatiya Janata Party	Male	Graduate	50	43	334	80%	34.5	0.1	174	83%
+Ram Chandra Dome	Elected	West Bengal	Bolpur	Communist Party of India (Marxist)	Male	Graduate	53	45	44	81%	34.8	0.8	135	72%
+Ram Singh Kaswan	Elected	Rajasthan	Churu	Bharatiya Janata Party	Male	Graduate	67	55	215	92%	37.1	0.8	207	88%
+Ram Sundar Das	Elected	Bihar	Hajipur	Janata Dal (United)	Male	Matric	91	0	278	87%	34.8	0.5	235	87%
+Rama Devi	Elected	Bihar	Sheohar	Bharatiya Janata Party	Female	Graduate	63	52	416	87%	34.8	0.5	235	87%
+Ramachandran Mullappally	Elected	Kerala	Vadakara	Indian National Congress	Male	Post Graduate	67	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Ramakant Yadav	Elected	Uttar Pradesh	Azamgarh	Bharatiya Janata Party	Male	Matric	55	0	0	46%	33.3	0.4	178	80%
+Ramashankar Rajbhar	Elected	Uttar Pradesh	Salempur	Bahujan Samaj Party	Male	Graduate	52	62	156	95%	33.3	0.4	178	80%
+Ramen Deka	Elected	Assam	Mangaldoi	Bharatiya Janata Party	Male	Graduate	58	44	115	87%	16.2	0.5	59	81%
+Ramesh Bais	Elected	Chhattisgarh	Raipur	Bharatiya Janata Party	Male	Inter/ Higher Secondary	65	9	224	94%	9.6	0.3	120	64%
+Ramesh Chandappa Jigajinagi	Elected	Karnataka	Bijapur	Bharatiya Janata Party	Male	Post Graduate	60	0	17	80%	14.4	0.2	243	70%
+Ramesh Kumar	Elected	Delhi	South Delhi	Indian National Congress	Male	Matric	57	0	0	100%	27.5	4.3	226	96%
+Ramesh Rathod	Elected	Andhra Pradesh	Adilabad	Telugu Desam Party	Male	Graduate	45	9	254	51%	15.2	0.4	257	70%
+Ramkishun	Elected	Uttar Pradesh	Chandauli	Samajwadi Party	Male	Graduate	56	99	399	86%	33.3	0.4	178	80%
+Ramshankar	Elected	Uttar Pradesh	Agra	Bharatiya Janata Party	Male	Doctorate	47	44	171	73%	33.3	0.4	178	80%
+Ramsinhbhai Patalyabhai Rathwa	Elected	Gujarat	Chhota Udaipur	Bharatiya Janata Party	Male	Post Diploma Course	61	18	557	81%	30.1	1	276	80%
+Ranee Narah	Elected	Assam	Lakhimpur	Indian National Congress	Female	Graduate	46	3	7	85%	16.2	0.5	59	81%
+Ranjan Prasad Yadav	Elected	Bihar	Pataliputra	Janata Dal (United)	Male	Doctorate	67	10	351	87%	34.8	0.5	235	87%
+Raosaheb Patil Danve	Elected	Maharashtra	Jalna	Bharatiya Janata Party	Male	Under Graduate	57	18	226	63%	21	1.2	354	74%
+Ratan Singh	Elected	Rajasthan	Bharatpur	Indian National Congress	Male	Graduate	65	42	90	95%	37.1	0.8	207	88%
+Ratanjit Pratap Narayan Singh	Elected	Uttar Pradesh	Khushi Nagar	Indian National Congress	Male	Graduate	48	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Ratna De	Elected	West Bengal	Hooghly	All India Trinamool Congress	Female	Post Graduate	64	74	113	80%	34.8	0.8	135	72%
+Ratna Singh	Elected	Uttar Pradesh	Pratapgarh	Indian National Congress	Female	Graduate	53	25	479	85%	33.3	0.4	178	80%
+Rattan Singh Ajnala	Elected	Punjab	Khadoor Sahib	Shiromani Akali Dal	Male	Graduate	68	36	125	84%	19	0.6	127	78%
+Ravindra Kumar Pandey	Elected	Jharkhand	Giridih	Bharatiya Janata Party	Male	Graduate	53	108	475	86%	25.9	0.8	185	65%
+Ravneet Singh	Elected	Punjab	Anandpur Sahib	Indian National Congress	Male	Inter/ Higher Secondary	36	11	291	77%	19	0.6	127	78%
+Rewati Raman Singh	Elected	Uttar Pradesh	Allahabad	Samajwadi Party	Male	Graduate	68	48	182	87%	33.3	0.4	178	80%
+Rudramadhab Ray	Elected	Orissa	Kandhamal	Biju Janata Dal	Male	Graduate	74	34	635	76%	27.4	0.6	279	76%
+S. Alagiri	Elected	Tamil Nadu	Cuddalore	Indian National Congress	Male	Graduate	59	19	398	69%	34.2	0.2	261	73%
+S. Gandhiselvan	Elected	Tamil Nadu	Namakkal	Dravida Munnetra Kazhagam	Male	Post Graduate	49	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+S. Jagathrakshakan	Elected	Tamil Nadu	Arakkonam	Dravida Munnetra Kazhagam	Male	Inter/ Higher Secondary	64	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+S. Pakkirappa	Elected	Karnataka	Raichur	Bharatiya Janata Party	Male	Under Matric	53	3	566	64%	14.4	0.2	243	70%
+S. R. Jeyadurai	Elected	Tamil Nadu	Thoothukkudi	Dravida Munnetra Kazhagam	Male	Graduate	43	11	448	57%	34.2	0.2	261	73%
+S. Semmalai	Elected	Tamil Nadu	Salem	All India Anna Dravida Munnetra Kazhagam	Male	Graduate	67	92	390	85%	34.2	0.2	261	73%
+S.P.Y. Reddy	Elected	Andhra Pradesh	Nandyal	Indian National Congress	Male	Graduate	62	3	0	48%	15.2	0.4	257	70%
+S.S. Palanimanickam	Elected	Tamil Nadu	Thanjavur	Dravida Munnetra Kazhagam	Male	Graduate	62	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+S.S. Ramasubbu	Elected	Tamil Nadu	Tirunelveli	Indian National Congress	Male	Post Graduate	62	123	752	98%	34.2	0.2	261	73%
+Sabbam Hari	Elected	Andhra Pradesh	Anakapalli	Indian National Congress	Male	Graduate	60	0	0	77%	15.2	0.4	257	70%
+Sachin Pilot	Elected	Rajasthan	Ajmer	Indian National Congress	Male	Post Graduate	35	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Sadashivrao Dadoba Mandlik	Elected	Maharashtra	Kolhapur	Independent	Male	Graduate	77	8	53	48%	21	1.2	354	74%
+Sai Prathap Annayyagari	Elected	Andhra Pradesh	Rajampet	Indian National Congress	Male	Under Graduate	67	1	80	86%	5.5	0.1	91	70%
+Sajjan Singh Verma	Elected	Madhya Pradesh	Dewas	Indian National Congress	Male	Post Graduate	59	47	322	87%	34.5	0.1	174	83%
+Sakti Mohan Malik	Elected	West Bengal	Arambagh	Communist Party of India (Marxist)	Male	Post Graduate	53	4	26	91%	34.8	0.8	135	72%
+Salman Khurshid	Elected	Uttar Pradesh	Farrukhabad	Indian National Congress	Male	Post Graduate	59	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Sambasiva Rayapati Rao	Elected	Andhra Pradesh	Guntur	Indian National Congress	Male	Graduate	69	13	610	67%	15.2	0.4	257	70%
+Sameer Magan Bhujbal	Elected	Maharashtra	Nashik	Nationalist Congress Party	Male	Matric	38	11	227	68%	21	1.2	354	74%
+Sandeep Dikshit	Elected	Delhi	East Delhi	Indian National Congress	Male	Post Graduate	48	15	2	93%	27.5	4.3	226	96%
+Sanjay Bhoi	Elected	Orissa	Bargarh	Indian National Congress	Male	Graduate	38	4	298	87%	27.4	0.6	279	76%
+Sanjay Dina Patil	Elected	Maharashtra	Mumbai-North-East	Nationalist Congress Party	Male	Graduate	43	6	340	85%	21	1.2	354	74%
+Sanjay Jaiswal	Elected	Bihar	Paschim Champaran	Bharatiya Janata Party	Male	Post Graduate	46	26	175	85%	34.8	0.5	235	87%
+Sanjay Nirupam	Elected	Maharashtra	Mumbai-North	Indian National Congress	Male	Graduate	47	44	231	93%	21	1.2	354	74%
+Sanjay Shamrao Dhotre	Elected	Maharashtra	Akola	Bharatiya Janata Party	Male	Graduate	53	12	254	75%	21	1.2	354	74%
+Sanjay Singh Chauhan	Elected	Uttar Pradesh	Bijnor	Rashtriya Lok Dal	Male	Graduate	50	24	245	88%	33.3	0.4	178	80%
+Sanjay Sinh	Elected	Uttar Pradesh	Sultanpur	Indian National Congress	Male	Doctorate	60	20	465	77%	33.3	0.4	178	80%
+Sanjeev Ganesh Naik	Elected	Maharashtra	Thane	Nationalist Congress Party	Male	Inter/ Higher Secondary	40	55	561	94%	21	1.2	354	74%
+Sansuma Khunggur Bwiswmuthiary	Elected	Assam	Kokrajhar	Bodoland People's Front	Male	Graduate	52	35	69	60%	16.2	0.5	59	81%
+Santosh Chowdhary	Elected	Punjab	Hoshiarpur	Indian National Congress	Female	Post Graduate	67	34	0	85%	19	0.6	127	78%
+Sarika Singh Baghel	Elected	Uttar Pradesh	Hathras	Rashtriya Lok Dal	Female	Post Graduate	32	0	0	94%	33.3	0.4	178	80%
+Saroj Pandey	Elected	Chhattisgarh	Durg	Bharatiya Janata Party	Female	Post Graduate	44	25	306	73%	9.6	0.3	120	64%
+Satabdi Roy	Elected	West Bengal	Birbhum	All India Trinamool Congress	Female	Graduate	42	2	0	72%	34.8	0.8	135	72%
+Sathyanarayana Sarvey	Elected	Andhra Pradesh	Malkajgiri	Indian National Congress	Male	Post Graduate	58	4	264	71%	15.2	0.4	257	70%
+Satpal Maharaj	Elected	Uttarakhand	Garhwal	Indian National Congress	Male	Inter/ Higher Secondary	60	113	80	86%	38.5	4.6	78	82%
+Saugata Roy	Elected	West Bengal	Dum Dum	All India Trinamool Congress	Male	Post Graduate	65	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Seema Upadhyay	Elected	Uttar Pradesh	Fatehpur Sikri	Bahujan Samaj Party	Female	Graduate	47	9	224	86%	33.3	0.4	178	80%
+Selja	Elected	Haryana	Ambala	Indian National Congress	Female	Post Graduate	49	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Shafiqur Rahman Barq	Elected	Uttar Pradesh	Sambhal	Bahujan Samaj Party	Male	Graduate	82	25	70	98%	33.3	0.4	178	80%
+Shailendra Kumar	Elected	Uttar Pradesh	Kaushambi	Samajwadi Party	Male	Post Graduate	52	268	143	97%	33.3	0.4	178	80%
+Sharad Chandra Govindrao Pawar	Elected	Maharashtra	Madha	Nationalist Congress Party	Male	Graduate	71	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Sharad Yadav	Elected	Bihar	Madhepura	Janata Dal (United)	Male	Graduate	65	121	41	84%	34.8	0.5	235	87%
+Sharifuddin Shariq	Elected	Jammu and Kashmir	Baramulla	Jammu and Kashmir National Conference	Male	Post Graduate	77	32	57	88%	35.4	0	84	89%
+Shashi Tharoor	Elected	Kerala	Thiruvananthapuram	Indian National Congress	Male	Doctorate	56	12	85	88%	36.7	0.9	227	84%
+Shatrughan Sinha	Elected	Bihar	Patna Sahib	Bharatiya Janata Party	Male	Graduate	66	6	66	72%	34.8	0.5	235	87%
+Sheesh Ram Ola	Elected	Rajasthan	Jhunjhunu	Indian National Congress	Male	Matric	85	4	8	93%	37.1	0.8	207	88%
+Sher Singh Ghubaya	Elected	Punjab	Ferozpur	Shiromani Akali Dal	Male	Matric	50	10	39	62%	19	0.6	127	78%
+Shibu Soren	Elected	Jharkhand	Dumka	Jharkhand Mukti Morcha	Male	Matric	68	0	0	20%	25.9	0.8	185	65%
+Shivaji Adhalrao Patil	Elected	Maharashtra	Shirur	Shiv Sena	Male	Inter/ Higher Secondary	56	10	699	42%	21	1.2	354	74%
+Shivaramagouda Shivanagouda	Elected	Karnataka	Koppal	Bharatiya Janata Party	Male	Graduate	58	32	145	77%	14.4	0.2	243	70%
+Shivraj Singh Lodhi	Elected	Madhya Pradesh	Damoh	Bharatiya Janata Party	Male	Matric	68	11	67	87%	34.5	0.1	174	83%
+Shrimant Chh. Udyanraje Pratapsinhmaharaj Bhonsle	Elected	Maharashtra	Satara	Nationalist Congress Party	Male	Post Graduate	46	1	39	52%	21	1.2	354	74%
+Shripad Yesso Naik	Elected	Goa	North Goa	Bharatiya Janata Party	Male	Graduate	59	28	115	80%	20.5	0.5	150	87%
+Shriprakash Jaiswal	Elected	Uttar Pradesh	Kanpur	Indian National Congress	Male	Inter/ Higher Secondary	67	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Shruti Choudhry	Elected	Haryana	Bhiwani-Mahendragarh	Indian National Congress	Female	Graduate	36	12	423	80%	8.7	0.1	149	69%
+Sidhant Mohapatra	Elected	Orissa	Berhampur	Biju Janata Dal	Male	Post Graduate	46	2	4	63%	27.4	0.6	279	76%
+Sisir Kumar Adhikari	Elected	West Bengal	Kanthi	All India Trinamool Congress	Male	Inter/ Higher Secondary	70	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Sivakumar @ J.K. Ritheesh. K	Elected	Tamil Nadu	Ramanthapuram	Dravida Munnetra Kazhagam	Male	Graduate	39	15	106	39%	34.2	0.2	261	73%
+Sk. Nurul Islam	Elected	West Bengal	Basirhat	All India Trinamool Congress	Male	Matric	48	1	4	44%	34.8	0.8	135	72%
+Sk. Saidul Haque	Elected	West Bengal	Bardhaman-Durgapur	Communist Party of India (Marxist)	Male	Post Graduate	58	71	193	97%	34.8	0.8	135	72%
+Sohan Potai	Elected	Chhattisgarh	Kanker	Bharatiya Janata Party	Male	Post Graduate	54	10	3	70%	9.6	0.3	120	64%
+Solanki Dinubhai Boghabhal	Elected	Gujarat	Junagadh	Bharatiya Janata Party	Male	Graduate	55	0	0	17%	30.1	1	276	80%
+Somabhai Gandalal Koli Patel	Elected	Gujarat	Surendranagar	Indian National Congress	Male	Under Matric	72	1	6	86%	30.1	1	276	80%
+Somendra Nath Mitra	Elected	West Bengal	Diamond Harbour	All India Trinamool Congress	Male	Graduate	68	1	191	47%	34.8	0.8	135	72%
+Sonawane Pratap Narayanrao	Elected	Maharashtra	Dhule	Bharatiya Janata Party	Male	Graduate	63	12	232	52%	21	1.2	354	74%
+Sonia Gandhi	Elected	Uttar Pradesh	Rae Bareli	Indian National Congress	Female	Diploma Course	65	1	0	47%	33.3	0.4	178	80%
+Srikanta Kumar Jena	Elected	Orissa	Balasore	Indian National Congress	Male	Graduate	62	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Subhash Bapurao Wankhede	Elected	Maharashtra	Hingoli	Shiv Sena	Male	Matric	49	10	283	64%	21	1.2	354	74%
+Subodh Kant Sahay	Elected	Jharkhand	Ranchi	Indian National Congress	Male	Graduate	61	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Subrata Bakshi	Elected	West Bengal	Kolkata Dakshin	All India Trinamool Congress	Male	Professional Graduate	62	1	0	31%	8.1	0.1	30	72%
+Sucharu Ranjan Haldar	Elected	West Bengal	Ranaghat	All India Trinamool Congress	Male	Post Graduate	72	6	25	82%	34.8	0.8	135	72%
+Sudarshan Bhagat	Elected	Jharkhand	Lohardaga	Bharatiya Janata Party	Male	Graduate	42	14	293	87%	25.9	0.8	185	65%
+Sudip Bandyopadhyay	Elected	West Bengal	Kolkata Uttar	All India Trinamool Congress	Male	Graduate	59	45	0	89%	21.9	0.6	78	72%
+Sukender Reddy Gutha	Elected	Andhra Pradesh	Nalgonda	Indian National Congress	Male	Graduate	58	7	83	64%	15.2	0.4	257	70%
+Sukhdev Singh Libra	Elected	Punjab	Fatehgarh Sahib	Indian National Congress	Male	Matric	79	8	85	98%	19	0.6	127	78%
+Sultan Ahmed	Elected	West Bengal	Uluberia	All India Trinamool Congress	Male	Graduate	59	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Sumitra Mahajan	Elected	Madhya Pradesh	Indore	Bharatiya Janata Party	Female	Post Graduate	69	42	440	86%	34.5	0.1	174	83%
+Supriya Sule	Elected	Maharashtra	Baramati	Nationalist Congress Party	Female	Graduate	43	30	604	86%	21	1.2	354	74%
+Surendra Singh Nagar	Elected	Uttar Pradesh	Gautam Buddha Nagar	Bahujan Samaj Party	Male	Graduate	47	21	272	78%	33.3	0.4	178	80%
+Suresh Channabasappa Angadi	Elected	Karnataka	Belgaum	Bharatiya Janata Party	Male	Graduate	57	20	257	75%	14.4	0.2	243	70%
+Suresh Kalmadi	Elected	Maharashtra	Pune	Indian National Congress	Male	Graduate	68	1	89	43%	21	1.2	354	74%
+Suresh Kashinath Taware	Elected	Maharashtra	Bhiwandi	Indian National Congress	Male	Graduate	52	10	129	86%	21	1.2	354	74%
+Suresh Kodikunnil	Elected	Kerala	Mavelikkara	Indian National Congress	Male	Graduate	50	65	669	82%	50.6	1.1	299	84%
+Suresh Kumar Shetkar	Elected	Andhra Pradesh	Zahirabad	Indian National Congress	Male	Graduate	52	17	567	76%	15.2	0.4	257	70%
+Sushil Kumar Sambhajirao Shinde	Elected	Maharashtra	Solapur	Indian National Congress	Male	Graduate	71	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Sushil Kumar Singh	Elected	Bihar	Aurangabad	Janata Dal (United)	Male	Post Graduate	49	31	256	76%	34.8	0.5	235	87%
+Sushila Saroj	Elected	Uttar Pradesh	Mohanlalganj	Samajwadi Party	Female	Post Graduate	61	21	454	88%	33.3	0.4	178	80%
+Sushma Swaraj	Elected	Madhya Pradesh	Vidisha	Bharatiya Janata Party	Female	Graduate	60	82	43	94%	34.5	0.1	174	83%
+Susmita Bauri	Elected	West Bengal	Bishnupur	Communist Party of India (Marxist)	Female	Graduate	37	25	33	94%	34.8	0.8	135	72%
+Suvendu Adhikari	Elected	West Bengal	Tamluk	All India Trinamool Congress	Male	Graduate	41	10	61	24%	34.8	0.8	135	72%
+Syed Shahnawaz Hussain	Elected	Bihar	Bhagalpur	Bharatiya Janata Party	Male	Diploma Course	43	50	489	93%	34.8	0.5	235	87%
+T.K.S. Elangovan	Elected	Tamil Nadu	Chennai North	Dravida Munnetra Kazhagam	Male	Post Graduate	58	39	15	93%	34.2	0.2	261	73%
+Tabassum Hasan	Elected	Uttar Pradesh	Kairana	Bahujan Samaj Party	Female	Matric	41	0	22	65%	33.3	0.4	178	80%
+Takam Sanjoy	Elected	Arunachal Pradesh	Arunachal West	Indian National Congress	Male	Graduate	45	5	54	67%	12	0	40	78%
+Tapas Paul	Elected	West Bengal	Krishnanagar	All India Trinamool Congress	Male	Graduate	54	6	0	67%	34.8	0.8	135	72%
+Tarachand Bhagora	Elected	Rajasthan	Banswara	Indian National Congress	Male	Post Graduate	58	3	177	82%	37.1	0.8	207	88%
+Tarun Mandal	Elected	West Bengal	Jaynagar	Independent	Male	Graduate	53	101	21	74%	34.8	0.8	135	72%
+Tathagata Satpathy	Elected	Orissa	Dhenkanal	Biju Janata Dal	Male	Graduate	56	26	254	71%	27.4	0.6	279	76%
+Thalikkottai Rajuthevar Baalu	Elected	Tamil Nadu	Sriperumbudur	Dravida Munnetra Kazhagam	Male	Graduate	71	28	108	82%	34.2	0.2	261	73%
+Thangso Baite	Elected	Manipur	Outer Manipur	Indian National Congress	Male	Post Graduate	59	2	4	99%	20.5	0.5	81	99%
+Thirumaa Valavan Thol	Elected	Tamil Nadu	Chidambaram	Viduthalai Chiruthaigal Katchi	Male	Post Graduate	50	25	16	47%	34.2	0.2	261	73%
+Thokchom Meinya	Elected	Manipur	Inner Manipur	Indian National Congress	Male	Doctorate	66	39	158	99%	20.5	0.5	81	99%
+Tufani Saroj	Elected	Uttar Pradesh	Machhlishahr	Samajwadi Party	Male	Graduate	56	42	236	89%	33.3	0.4	178	80%
+Tushar Amarsinh Chaudhary	Elected	Gujarat	Bardoli	Indian National Congress	Male	Graduate	46	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Udasi Shivkumar Chanabasappa	Elected	Karnataka	Haveri	Bharatiya Janata Party	Male	Graduate	45	47	122	89%	14.4	0.2	243	70%
+Uday Pratap Singh	Elected	Madhya Pradesh	Hoshangabad	Indian National Congress	Male	Graduate	48	25	158	82%	34.5	0.1	174	83%
+Uday Singh Alias Pappu Singh	Elected	Bihar	Purnia	Bharatiya Janata Party	Male	Inter/ Higher Secondary	59	12	401	73%	34.8	0.5	235	87%
+Uma Shanker Singh	Elected	Bihar	Maharajganj	Rashtriya Janata Dal	Male	Inter/ Higher Secondary	72	14	107	89%	34.8	0.5	235	87%
+Usha Verma	Elected	Uttar Pradesh	Hardoi	Samajwadi Party	Female	Post Graduate	49	16	262	84%	33.3	0.4	178	80%
+V. Kishore Chandra S. Deo	Elected	Andhra Pradesh	Araku	Indian National Congress	Male	Post Graduate	65	2	0	91%	9.7	0.3	166	70%
+V. Narayanasamy	Elected	Puducherry	Puducherry	Indian National Congress	Male	Post Graduate	65	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Vijay Bahadur Singh	Elected	Uttar Pradesh	Hamirpur	Bahujan Samaj Party	Male	Graduate	71	59	135	85%	33.3	0.4	178	80%
+Vijay Bahuguna	Elected	Uttarakhand	Tehri Garhwal	Indian National Congress	Male	Graduate	65	13	18	80%	36.9	4.6	69	82%
+Vijay Inder Singla	Elected	Punjab	Sangrur	Indian National Congress	Male	Graduate	40	2	9	85%	19	0.6	127	78%
+Vikrambhai Arjanbhai Maadam	Elected	Gujarat	Jamnagar	Indian National Congress	Male	Graduate	54	8	679	77%	30.1	1	276	80%
+Vilas Baburao Muttemwar	Elected	Maharashtra	Nagpur	Indian National Congress	Male	Graduate	63	30	541	80%	21	1.2	354	74%
+Vinay Kumar Pandey	Elected	Uttar Pradesh	Shrawasti	Indian National Congress	Male	Doctorate	48	36	190	86%	33.3	0.4	178	80%
+Vincent H Pala	Elected	Meghalaya	Shillong	Indian National Congress	Male	Graduate	44	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Virbhadra Singh	Elected	Himachal Pradesh	Mandi	Indian National Congress	Male	Post Graduate	78	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Virender Kashyap	Elected	Himachal Pradesh	Shimla	Bharatiya Janata Party	Male	Post Graduate	62	92	329	89%	70	0.3	273	89%
+Virendra Kumar	Elected	Madhya Pradesh	Tikamgarh	Bharatiya Janata Party	Male	Doctorate	58	145	160	95%	34.5	0.1	174	83%
+Vishnu Deo Sai	Elected	Chhattisgarh	Raigarh	Bharatiya Janata Party	Male	Inter/ Higher Secondary	48	3	11	58%	9.6	0.3	120	64%
+Vishwa Mohan Kumar	Elected	Bihar	Supaul	Janata Dal (United)	Male	Post Graduate	54	48	339	81%	34.8	0.5	235	87%
+Vitthalbhai Hansrajbhai Radadiya	Elected	Gujarat	Porbandar	Indian National Congress	Male	Graduate	53	1	168	27%	30.1	1	276	80%
+Wakchaure Bhausaheb Rajaram	Elected	Maharashtra	Shirdi	Shiv Sena	Male	Graduate	62	18	587	66%	21	1.2	354	74%
+Y. S. Jagan Mohan Reddy	Elected	Andhra Pradesh	Kadapa	Yuvajana Sramika Rythu Congress Party	Male	Graduate	39	2	0	42%	12.9	0.2	229	70%
+Yashbant Narayan Singh Laguri	Elected	Orissa	Keonjhar	Biju Janata Dal	Male	Graduate	41	23	525	69%	27.4	0.6	279	76%
+Yashodhara Raje Scindia	Elected	Madhya Pradesh	Gwalior	Bharatiya Janata Party	Female	Inter/ Higher Secondary	58	22	153	78%	34.5	0.1	174	83%
+Yashvir Singh	Elected	Uttar Pradesh	Nagina	Samajwadi Party	Male	Graduate	39	0	359	86%	33.3	0.4	178	80%
+Yashwant Sinha	Elected	Jharkhand	Hazaribagh	Bharatiya Janata Party	Male	Post Graduate	74	31	78	90%	25.9	0.8	185	65%
+Yogi Adityanath	Elected	Uttar Pradesh	Gorakhpur	Bharatiya Janata Party	Male	Graduate	40	69	292	75%	33.3	0.4	178	80%
+Zafar Ali Naqvi	Elected	Uttar Pradesh	Kheri	Indian National Congress	Male	Graduate	65	0	45	79%	33.3	0.4	178	80%

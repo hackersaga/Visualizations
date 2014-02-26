@@ -1,0 +1,275 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="../styles/layout.css" type="text/css" />
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script language="javascript" type="text/javascript" src="jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="function.js"></script>
+	<script language="javascript" type="text/javascript">
+		google.load("visualization", "1", {packages:["corechart"]});
+		var noOfColumns=function(checkCol){
+										if(checkCol===0){return 6;}
+										else if(checkCol===1){return 13;}
+										else if(checkCol===3){return 39;}
+										else{return 10;}
+												}
+			var data=new Array(4); // making a 3-D array in which i am gonna to store complete info of a particular party and particular state like Number of MPs, Age, Debates, Questions, Attendance
+			for(i=0;i<4;i++){
+				var columns=noOfColumns(i);
+				data[i]=new Array(3);
+				for(p1=0;p1<3;p1++){
+				data[i][p1]=new Array(35);
+				for(j1=0;j1<35;j1++){
+					data[i][p1][j1]=new Array(columns);
+					for(k1=0;k1<columns;k1++){
+											data[i][p1][j1][k1]=0;
+											}
+									}
+			}
+			}
+			//bascially five dimensional array 1-D for criteria of graph, 2nd D for sex, 3rd for calculating average, 4-5th are for party /vs state
+			var title1="";
+			var title2="";
+	$(document).ready(function(){
+		$.ajax({url:"Mashup.txt",dataType:"text",success:function(result){
+																			var row=result.split("\n");
+		$.ajax({url:"state.txt",dataType:"text",success:function(sResult){// Storing all states in an array
+																			var state=sResult.split("\n");
+		$.ajax({url:"party.txt",dataType:"text",success:function(pResult){ // Storing all parties in an array
+																			var party=pResult.split("\n");
+			var col = new Array();			
+			for(i=0;i<551;i++){
+								col[i]=row[i].split("\t");	
+							  }
+			var i1=0;
+			var i2=0;
+			
+			for(p=1;p<551;p++){
+							i1=check(col[p][2],state,35);
+      						
+							var checkSex=sexCheck(col[p][5]);
+							
+							if(col[p][7]==="N/A"){}
+							else{
+								i2=checkAgeGroup(parseInt(col[p][7]));
+								data[0][0][i1][i2]+=1; // Age
+								data[0][checkSex][i1][i2]+=1;  // Age
+								}
+							if(col[p][6]==="N/A"){}
+							else{
+								i2=checkEducationGroup(col[p][6]);
+								data[1][checkSex][i1][i2]+=1;
+								data[1][0][i1][i2]+=1;
+								}
+							if(col[p][10]==="N/A"){}
+							else{
+								i2=checkAttendanceGroup(parseInt(col[p][10].substring(0,col[p][10].length-1)));
+								data[2][checkSex][i1][i2]+=1;
+								data[2][0][i1][i2]+=1;
+								}	
+							if(col[p][4]==="N/A"){}
+							else{
+								i2=check(col[p][4],party,39);
+								data[3][checkSex][i1][i2]+=1;
+								data[3][0][i1][i2]+=1;
+								}	
+							
+							}
+			
+
+	//Now uptill this line i had stored all required data in "data" array
+	//MOST IMP FUNCTION : function which returns an array according to our requirement i.e. for nummber of MPs,age, debates, questions, Attendance etc. returned array is basically well formated array according to need og google API
+	//INPUT : criteria means criteria for plotting graph like age, attendance etc.
+	//INPUT : sex for which sex do u want to plot the graph...0 for both, 1 for male and 2 for female
+	//INPUT : stateNo tells State Name for the which the graph should be plotted
+	//OUTPUT : Well formated array according to need of google graph.
+				var requiredArray=function(criteria,sex,stateNo){//sex==0 for both and 1 for male and 2 for female......wayOfSorting is '0' means sorted in alphabatical order 1 for x-axis, 2 for for y-axis and 3 for both axis sorted
+					var array1=new Array();	
+							if(criteria===0){//Age Groups
+										array1[0]=['Age-group','Number Of MPs'];
+										array1[1]=['30-40',data[criteria][sex][stateNo][0]];
+										array1[2]=['40-50',data[criteria][sex][stateNo][1]];
+										array1[3]=['50-60',data[criteria][sex][stateNo][2]];
+										array1[4]=['60-70',data[criteria][sex][stateNo][3]];
+										array1[5]=['70-80',data[criteria][sex][stateNo][4]];
+										array1[6]=['80-90',data[criteria][sex][stateNo][5]];
+										title1="Age-group Bar Graph for "+state[stateNo]+" and for "+numToSex(sex);
+										title2='Age-group';
+										}
+							else if(criteria===1){//Educatoin Qualification
+												array1[0]=['Education','Number Of MPs'];
+												for(ed=0;ed<12;ed++){
+													array1[ed+1]=[Education[ed],data[criteria][sex][stateNo][ed]];
+													}
+												title1="Education Qualification Bar Graph for "+state[stateNo]+" and for "+numToSex(sex);	
+												title2='Educational Qualification';
+												}
+							else if(criteria===2){//Attendance Group
+										array1[0]=['Attendance','Number Of MPs'];
+										array1[1]=['01-10',data[criteria][sex][stateNo][0]];
+										array1[2]=['11-20',data[criteria][sex][stateNo][1]];
+										array1[3]=['21-30',data[criteria][sex][stateNo][2]];
+										array1[4]=['31-40',data[criteria][sex][stateNo][3]];
+										array1[5]=['41-50',data[criteria][sex][stateNo][4]];
+										array1[6]=['51-60',data[criteria][sex][stateNo][5]];
+										array1[7]=['61-70',data[criteria][sex][stateNo][6]];
+										array1[8]=['71-80',data[criteria][sex][stateNo][7]];
+										array1[9]=['81-90',data[criteria][sex][stateNo][8]];
+										array1[10]=['91-100',data[criteria][sex][stateNo][9]];
+										title1="Attendance Bar Graph for "+state[stateNo]+" and for "+numToSex(sex);	
+										title2='Attendance';
+										}
+							else{	//Major Political Party
+								var array2=new Array(39);
+								var sum1=0;
+								for(m1=0;m1<39;m1++){
+											array2[m1]=[m1,data[criteria][sex][stateNo][m1]];
+											sum1+=data[criteria][0][stateNo][m1];
+											}
+											
+										array2=(sortit(array2)).reverse();
+										array1[0]=['',party[array2[0][1]]];
+										array1[1]=['',array2[0][1]/sum1];
+										
+										if(array2[1][1]!==0){
+										array1[0]=['',party[array2[0][0]],party[array2[1][0]]];
+										array1[1]=['',array2[0][1]/sum1,array2[1][1]/sum1];										}
+										
+										if(array2[2][1]!==0){
+										array1[0]=['',party[array2[0][0]],party[array2[1][0]],party[array2[2][0]]];
+										array1[1]=['',array2[0][1]/sum1,array2[1][1]/sum1,array2[2][1]/sum1];
+										}
+										
+										if(array2[3][1]!==0){
+										array1[0]=['',party[array2[0][0]],party[array2[1][0]],party[array2[2][0]],party[array2[3][0]]];
+										array1[1]=['',array2[0][1]/sum1,array2[1][1]/sum1,array2[2][1]/sum1,array2[3][1]/sum1];
+										}
+										
+										if(array2[4][1]!==0){
+										array1[0]=['',party[array2[0][0]],party[array2[1][0]],party[array2[2][0]],party[array2[3][0]],party[array2[4][0]]];
+										array1[1]=['',array2[0][1]/sum1,array2[1][1]/sum1,array2[2][1]/sum1,array2[3][1]/sum1,array2[4][1]/sum1];
+										}
+								
+								title1="Fraction of seats occupied by Leading Political Party - Bar Graph for "+state[stateNo]+" and for "+numToSex(sex);	
+								title2="Leading Political Party";		
+								}
+									  return array1;
+									  }							
+	  
+	 drawChart(requiredArray(0,0,20));
+      function drawChart(reqArr) {
+        var data = google.visualization.arrayToDataTable(reqArr);
+
+        var options = {
+          title:title1,
+		  titleTextStyle:{color: "#6C2DC7"},
+          hAxis: {title: title2, titleTextStyle: {color: 'red'}}
+        }
+
+        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+	  
+
+		$("input").click(function(){
+			var x=document.getElementById("selector1").selectedIndex;
+			var y=document.getElementById("selector1").options;var x=document.getElementById("selector1").selectedIndex;
+			var y=document.getElementById("selector1").options;var x1=document.getElementById("selector2").selectedIndex;
+			var y1=document.getElementById("selector2").options;var x3=document.getElementById("selector3").selectedIndex;
+			var y3=document.getElementById("selector3").options;
+			drawChart(requiredArray(y[x].index,y1[x1].index,y3[x3].index));
+		})
+					
+			 }})
+			 }})
+		}})
+		
+		})
+
+	
+    
+		
+		var Education=["Certificate Course","Diploma Course","Doctorate","Graduate","Inter/ Higher Secondary","Matric","Others","Post Diploma Course","Post Graduate","Professional Graduate","Under Graduate","Under Matric"];
+		
+		</script>
+	</head>
+	<body>
+		<div class="wrapper col1">
+		  <div id="header">
+			<div id="logo">
+			  <h1><a href="http://www.cse.iitd.ac.in/~cs1110201/assignment2Csp301Final">LOK-SABHA 15</h1>
+			  <p>Csp301 Assignment2 </p>
+			</div>
+			<div id="topnav">
+			  <ul>
+				
+				<li class="active"><a href="../index.html">Home</a></li>
+				<li><a href="Statewise.html">State-Wise</a></li>
+				<li><a href="MajorPoliticalParty.html">Major Political Party</a></li>
+				<li><a href="Mashup.html">Mash Up</a></li>
+				<li><a href="../hypothesis.html">Hypothesis Test</a></li>
+	
+			  </ul>
+			</div>
+			<br class="clear" />
+		  </div>
+		</div>
+	<div class="wrapper col2">
+	<ul >
+  
+		<li><span style="color:blue">Graph Criteria : </span>
+			<select id="selector1" size="1">	
+				<option value="0" class="select0">Age of MPs</option>
+				<option value="1" class="select0">Education Qualification</option>
+				<option value="2" class="select0">Attendance of MPs</option>
+				<option value="3" class="select0">Major Political Parties</option>
+			</select></li>
+		<li><span style="color:blue">Sex Criteria : </span>
+			<select id="selector2" size="1">
+			<option value="0" class="select1">Both (*Male & Female*)</option>
+			<option value="1" class="select1">Male</option>
+			<option value="2" class="select1">Female</option>
+			</select></li>
+		<li><span style="color:blue">Select State : </span>
+			<select id="selector3" size="1">
+			<option value="0" class="select2">Andaman and Nicobar Islands</option>
+			<option value="1" class="select2">Andhra Pradesh</option>
+			<option value="2" class="select2">Arunachal Pradesh</option>
+			<option value="3" class="select2">Assam</option>
+			<option value="4" class="select2">Bihar</option>
+			<option value="5" class="select2">Chandigarh</option>
+			<option value="6" class="select2">Chhattisgarh</option>
+			<option value="7" class="select2">Dadra and Nagar Haveli</option>
+			<option value="8" class="select2">Daman and Diu</option>
+			<option value="9" class="select2">Delhi</option>
+			<option value="10" class="select2">Goa</option>
+			<option value="11" class="select2">Gujarat</option>
+			<option value="12" class="select2">Haryana</option>
+			<option value="13" class="select2">Himachal Pradesh</option>
+			<option value="14" class="select2">Jammu and Kashmir</option>
+			<option value="15" class="select2">Jharkhand</option>
+			<option value="16" class="select2">Karnataka</option>
+			<option value="17" class="select2">Kerala</option>
+			<option value="18" class="select2">Lakshadweep</option>
+			<option value="19" class="select2">Madhya Pradesh</option>
+			<option value="20" class="select2">Maharashtra</option>
+			<option value="21" class="select2">Manipur</option>
+			<option value="22" class="select2">Meghalaya</option>
+			<option value="23" class="select2">Mizoram</option>
+			<option value="24" class="select2">Nagaland</option>
+			<option value="25" class="select2">Orissa</option>
+			<option value="26" class="select2">Puducherry</option>
+			<option value="27" class="select2">Punjab</option>
+			<option value="28" class="select2">Rajasthan</option>
+			<option value="29" class="select2">Sikkim</option>
+			<option value="30" class="select2">Tamil Nadu</option>
+			<option value="31" class="select2">Tripura</option>
+			<option value="32" class="select2">Uttar Pradesh</option>
+			<option value="33" class="select2">Uttarakhand</option>
+			<option value="34" class="select2">West Bengal</option>
+		</select></li>
+		<input type="submit" id="submitter" value="Submit"/>
+	</ul>
+	</div>
+		<div id="chart_div" style="width: 1100; height: 600;margin-left:125px;margin-top:35px;border:0px solid black"></div>
+  </body>
+</html>

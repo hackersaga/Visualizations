@@ -1,0 +1,249 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="../styles/layout.css" type="text/css" />
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script language="javascript" type="text/javascript" src="jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="function.js"></script>
+
+	<script language="javascript" type="text/javascript">
+	google.load("visualization", "1", {packages:["corechart"]});
+		//Here is initialization of main array which will contain whole data
+		var data=new Array(5); // making a 5-D array in which i am gonna to store complete info of a particular party and particular state like Number of MPs, Age, Debates, Questions, Attendance
+			for(i=0;i<5;i++){//first dimension for criteria of plotting a graph..i.e. age, attendance etc.
+				data[i]=new Array(3);
+				data[i][0]=new Array(2);//both male and female
+				data[i][1]=new Array(2);//male
+				data[i][2]=new Array(2);//female
+				for(b=0;b<3;b++){
+					data[i][b][0]=new Array(35);//for number of persons
+					data[i][b][1]=new Array(35);//sum
+				for(j=0;j<35;j++){
+					data[i][b][0][j]=new Array(39);
+					data[i][b][1][j]=new Array(39);
+					for(k=0;k<39;k++){
+						data[i][b][0][j][k]=0;			
+						data[i][b][1][j][k]=0;			
+									}
+				}
+				}
+			}//bascially five dimensional array 1-D for criteria of graph, 2nd D for sex, 3rd for calculating average, 4-5th are for party /vs state
+			var title1="";
+
+	$(document).ready(function(){
+		$.ajax({url:"Mashup.txt",dataType:"text",success:function(result){
+																			var row=result.split("\n");
+		$.ajax({url:"state.txt",dataType:"text",success:function(sResult){// Storing all states in an array
+																			var state=sResult.split("\n");
+		$.ajax({url:"party.txt",dataType:"text",success:function(pResult){ // Storing all parties in an array
+																			var party=pResult.split("\n");
+			var col = new Array();			
+			for(i=0;i<551;i++){
+								col[i]=row[i].split("\t");	
+							  }
+			var i1=0;
+			var i2=0;
+			// filling whole data into a single multi-dimensional array
+			for(p=1;p<551;p++){
+							i1=check(col[p][2],state,35);
+      						i2=check(col[p][4],party,39);
+							var checkSex=sexCheck(col[p][5]);
+							data[0][checkSex][0][i1][i2]+=1; // Number of MPs
+							data[0][checkSex][1][i1][i2]+=1;
+							data[0][0][0][i1][i2]+=1; // Number of MPs
+							data[0][0][1][i1][i2]+=1;
+							
+							if(col[p][7]==="N/A"){}
+							else{data[1][0][1][i1][i2]+=parseInt(col[p][7]);  /// Age
+								data[1][0][0][i1][i2]+=1;
+								
+								data[1][checkSex][1][i1][i2]+=parseInt(col[p][7]);  /// Age
+								data[1][checkSex][0][i1][i2]+=1;
+								}
+								
+							if(col[p][8]==="N/A"){}
+							else{data[2][checkSex][1][i1][i2]+=parseInt(col[p][8]);  /// Debates
+								data[2][checkSex][0][i1][i2]+=1;
+								data[2][0][1][i1][i2]+=parseInt(col[p][8]);  /// Debates
+								data[2][0][0][i1][i2]+=1;
+								}
+							if(col[p][9]==="N/A"){}
+							else{data[3][checkSex][1][i1][i2]+=parseInt(col[p][9]);  ///Questions
+								data[3][checkSex][0][i1][i2]+=1;
+								data[3][0][1][i1][i2]+=parseInt(col[p][9]);  /// Questions
+								data[3][0][0][i1][i2]+=1;
+								}
+							if(col[p][10]==="N/A"){}
+							else{data[4][checkSex][1][i1][i2]+=parseInt(col[p][10].substring(0,col[p][10].length-1));   //Attendance
+								data[4][checkSex][0][i1][i2]+=1;
+								data[4][0][1][i1][i2]+=parseInt(col[p][10].substring(0,col[p][10].length-1));   //Attendance
+								data[4][0][0][i1][i2]+=1;
+								}	
+							
+							}
+			
+
+	//Now uptill this line i had stored all required data in "data" array
+	//MOST IMP FUNCTION : function which returns an array according to our requirement i.e. for nummber of MPs,age, debates, questions, Attendance etc. returned array is basically well formated array according to need og google API
+	//INPUT : condition means criteria selecting leading political parties
+	//INPUT : sex for which sex do u want to plot the graph...0 for both, 1 for male and 2 for female
+	//INPUT : graph1 tells criteria to plot the graph like age, attendance
+	//OUTPUT : Well formated array according to need of google graph.
+				var requiredArray=function(condition,sex,graph1){//sex==0 for both and 1 for male and 2 for female......
+					var array1=new Array();	
+					var sortParty=new Array(39);
+					title1="";
+					if(graph1===0){
+								title1="Number Of MPs";
+								}
+					else if(graph1===1){
+								title1="Average Age";
+								}			
+					else if(graph1===2){
+								title1="Average Debates";
+								}				
+					else if(graph1===3){
+								title1="Average Question Asked";
+								}			
+					else{
+								title1="Average Attendance";
+								}						
+					
+					for(u=0;u<39;u++){
+							var res0=0;
+							var res1=0;
+						for(v=0;v<35;v++){
+										res1+=data[condition][sex][1][v][u];
+										res0+=data[condition][sex][0][v][u];
+										}
+									sortParty[u]=[u,res1,res0];	
+									}
+					
+					for(w=0;w<39;w++){
+									var num1=sortParty[w][1];
+									if(sortParty[w][2]===0){}
+									else{
+									if(condition===0){}
+									else{
+									num1=sortParty[w][1]/sortParty[w][2];}
+										}
+										sortParty[w]=[w,num1,0];
+									}		
+									sortParty=(sortit(sortParty)).reverse();
+									
+					var array2=new Array(10);
+					for(u=0;u<10;u++){
+							var res0=0;
+							var res1=0;
+						for(v=0;v<35;v++){
+										res1+=data[graph1][sex][1][v][sortParty[u][0]];
+										res0+=data[graph1][sex][0][v][sortParty[u][0]];
+										}
+									array2[u]=[sortParty[u][0],res1,res0];	
+									}
+					
+					for(w=0;w<10;w++){
+									var num1=array2[w][1];
+									if(sortParty[w][2]===0){}
+									else{
+									if(graph1===0){}
+									else{
+									num1=array2[w][1]/array2[w][2];}
+										}
+										array2[w]=[array2[w][0],num1,0];
+									}
+									
+					
+					array1[0]=['',party[array2[0][0]],party[array2[1][0]],party[array2[2][0]],party[array2[3][0]],party[array2[4][0]],party[array2[5][0]],party[array2[6][0]],party[array2[7][0]],party[array2[8][0]],party[array2[9][0]]];
+					array1[1]=['',array2[0][1],array2[1][1],array2[2][1],array2[3][1],array2[4][1],array2[5][1],array2[6][1],array2[7][1],array2[8][1],array2[9][1]];
+						
+									  return array1;
+									  }							
+	  
+      function drawChart(arr) {
+			var data = google.visualization.arrayToDataTable(arr);
+
+			var options = {
+						  title:title1,
+						  titleTextStyle:{color: "#6C2DC7"},
+						  hAxis: {title: 'Leading Political Party', titleTextStyle: {color: 'red'}}
+						};
+
+			var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+			chart.draw(data, options);
+		}
+		
+		drawChart(requiredArray(0,0,0));
+		$("input").click(function(){
+		var x=document.getElementById("selector1").selectedIndex;
+		var y=document.getElementById("selector1").options;var x=document.getElementById("selector1").selectedIndex;
+		var y=document.getElementById("selector1").options;var x1=document.getElementById("selector2").selectedIndex;
+		var y1=document.getElementById("selector2").options;var x3=document.getElementById("selector3").selectedIndex;
+		var y3=document.getElementById("selector3").options;
+		drawChart(requiredArray(y[x].index,y1[x1].index,y3[x3].index));
+		})
+					
+			 }})
+			 }})
+		}})
+		
+		})
+
+								  
+		</script>
+	</head>
+	<body>
+		<div class="wrapper col1">
+		  <div id="header">
+			<div id="logo">
+			  <h1><a href="http://www.cse.iitd.ac.in/~cs1110201/assignment2Csp301Final">LOK-SABHA 15</h1>
+			  <p>Csp301 Assignment2 </p>
+			</div>
+			<div id="topnav">
+			  <ul>
+				
+				<li class="active"><a href="../index.html">Home</a></li>
+				<li><a href="Statewise.html">State-Wise</a></li>
+				<li><a href="MajorPoliticalParty.html">Major Political Party</a></li>
+				<li><a href="Mashup.html">Mash Up</a></li>
+				<li><a href="../hypothesis.html">Hypothesis Test</a></li>
+	
+			  </ul>
+			</div>
+			<br class="clear" />
+		  </div>
+		</div>
+		
+	<div class="wrapper col2">
+	<ul>
+		<li>
+		  <span style="color:blue">Criteria for Selecting Major Parties :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+		  <select id="selector1" size="1">
+					
+					<option value="0" class="select0">Number Of MPs</option>
+					<option value="1" class="select0">Average Age</option>
+					<option value="2" class="select0">Average Debates</option>
+					<option value="3" class="select0">Average Question Asked</option>
+					<option value="4" class="select0">Average Attendance</option>
+				</select></li>
+		<li>	<span style="color:blue">Select Sex :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	<select id="selector2" size="1">
+			<option value="0" class="select1">Both (*Male & Female*)</option>
+			<option value="1" class="select1">Male</option>
+			<option value="2" class="select1">Female</option>
+		</select></li>
+		<li>
+			<span style="color:blue">Criteria for Plotting graph of selected leading Political Parties : </span>
+			<select id="selector3" size="1">
+				<option value="0" class="select2">Number Of MPs</option>
+				<option value="1" class="select2">Average Age</option>
+				<option value="2" class="select2">Average Debates</option>
+				<option value="3" class="select2">Average Question Asked</option>
+				<option value="4" class="select2">Average Attendance</option>
+			</select></li>
+			
+			<input type="submit" id="submitter" value="Submit"/>
+		</ul>
+		</div>
+		<div id="chart_div" style="width: 1100; height: 600;margin-left:125px;margin-top:20px;border:0px solid black"></div>
+  </body>
+</html>
